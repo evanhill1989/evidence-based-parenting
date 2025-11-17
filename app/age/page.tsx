@@ -36,7 +36,7 @@ export default function AgePage() {
             Browse by Age
           </h1>
           <p className="text-xl text-gray-600">
-            Find age-appropriate guidance for your child's developmental stage
+            Find age-appropriate guidance for your child&apos;s developmental stage
           </p>
         </div>
 

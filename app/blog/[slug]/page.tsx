@@ -13,9 +13,9 @@ import { Clock, Calendar, Tag, User } from "lucide-react";
 import type { Metadata } from "next";
 
 interface BlogPostPageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
 // Generate static params for all blog posts
@@ -29,7 +29,8 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: BlogPostPageProps): Promise<Metadata> {
-  const post = allBlogPosts.find((post) => post.slug === params.slug);
+  const { slug } = await params;
+  const post = allBlogPosts.find((post) => post.slug === slug);
 
   if (!post) {
     return {};
@@ -47,8 +48,9 @@ export async function generateMetadata({
   });
 }
 
-export default function BlogPostPage({ params }: BlogPostPageProps) {
-  const post = allBlogPosts.find((post) => post.slug === params.slug);
+export default async function BlogPostPage({ params }: BlogPostPageProps) {
+  const { slug } = await params;
+  const post = allBlogPosts.find((post) => post.slug === slug);
 
   if (!post) {
     notFound();
@@ -56,7 +58,7 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
 
   const MDXContent = getMDXComponent(post.body.code);
   const relatedContent = getRelatedContent(post, 3);
-  const headings = extractHeadings(post.body.html);
+  const headings = extractHeadings(post.body.raw);
   // #TODO
 
   return (

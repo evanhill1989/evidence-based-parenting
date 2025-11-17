@@ -57,7 +57,7 @@ export default function HomePage() {
                 Quick Help
               </h3>
               <p className="mb-4 text-gray-600">
-                Fast answers when you need them. 2am crying baby? We've got you
+                Fast answers when you need them. 2am crying baby? We&apos;ve got you
                 covered.
               </p>
               <span className="inline-flex items-center text-primary-600 group-hover:underline">
@@ -77,7 +77,7 @@ export default function HomePage() {
                 By Age
               </h3>
               <p className="mb-4 text-gray-600">
-                Learn what to expect at each stage of your child's development.
+                Learn what to expect at each stage of your child&apos;s development.
               </p>
               <span className="inline-flex items-center text-primary-600 group-hover:underline">
                 Browse by age <ArrowRight className="ml-2 h-4 w-4" />

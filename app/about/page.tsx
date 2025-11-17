@@ -23,9 +23,9 @@ export default function AboutPage() {
 
             <h3>Professional Background</h3>
             <p>
-              I'm a board-certified Pediatric Nurse Practitioner (MSN, CPNP-AC)
+              I&apos;m a board-certified Pediatric Nurse Practitioner (MSN, CPNP-AC)
               with over 8 years of clinical experience specializing in
-              developmental pediatrics and pediatric neurology. I've spent:
+              developmental pediatrics and pediatric neurology. I&apos;ve spent:
             </p>
             <ul>
               <li>2 years in developmental pediatrics</li>
@@ -66,17 +66,17 @@ export default function AboutPage() {
 
             <h3>My Approach</h3>
             <p>
-              I specialize in neurological and developmental topics—that's where
+              I specialize in neurological and developmental topics—that&apos;s where
               my clinical expertise runs deepest. But this site covers the full
               spectrum of early parenting, always with an evidence-based lens.
             </p>
             <p>
-              You'll notice I:
+              You&apos;ll notice I:
             </p>
             <ul>
               <li>Cite research and clinical guidelines</li>
               <li>
-                Explain the "why" behind recommendations, not just the "what"
+                Explain the &quot;why&quot; behind recommendations, not just the &quot;what&quot;
               </li>
               <li>Acknowledge uncertainty when evidence is limited</li>
               <li>
@@ -93,14 +93,14 @@ export default function AboutPage() {
               This website provides general parenting information and is not a
               substitute for professional medical advice, diagnosis, or
               treatment. Always seek the advice of your pediatrician or other
-              qualified health provider with questions about your child's health.
+              qualified health provider with questions about your child&apos;s health.
               Never disregard professional medical advice or delay seeking it
               because of something you have read on this website.
             </p>
 
             <h3>Get in Touch</h3>
             <p>
-              Have questions or suggestions? Want to request a topic? I'd love to
+              Have questions or suggestions? Want to request a topic? I&apos;d love to
               hear from you.
             </p>
           </div>

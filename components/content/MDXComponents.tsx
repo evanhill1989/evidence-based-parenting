@@ -93,7 +93,7 @@ const MDXComponents = {
       {children}
     </ul>
   ),
-  ol: ({ children, ...props }: React.OListHTMLAttributes<HTMLOListElement>) => (
+  ol: ({ children, ...props }: React.OlHTMLAttributes<HTMLOListElement>) => (
     <ol className="mb-4 ml-6 list-decimal space-y-2 text-gray-700" {...props}>
       {children}
     </ol>
@@ -159,14 +159,14 @@ const MDXComponents = {
   ),
 
   // Images
-  img: ({ src, alt, ...props }: React.ImgHTMLAttributes<HTMLImageElement>) => (
+  img: ({ src, alt, width, height, ...props }: React.ImgHTMLAttributes<HTMLImageElement>) => (
     <div className="my-8">
       {src && (
         <Image
           src={src}
           alt={alt || ''}
-          width={800}
-          height={400}
+          width={typeof width === 'number' ? width : 800}
+          height={typeof height === 'number' ? height : 400}
           className="rounded-lg"
           {...props}
         />

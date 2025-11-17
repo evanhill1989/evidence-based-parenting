@@ -14,7 +14,7 @@ export default function QuickHelpPage() {
             Quick Help
           </h1>
           <p className="text-xl text-gray-600">
-            Fast, actionable answers when you need them most. 2am crying baby? We've got you covered.
+            Fast, actionable answers when you need them most. 2am crying baby? We&apos;ve got you covered.
           </p>
         </div>
 
