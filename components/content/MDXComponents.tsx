@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { AlertCircle, AlertTriangle, Info } from 'lucide-react'
+import { AlertCircle, AlertTriangle, Info, Download } from 'lucide-react'
 
 // Custom components for MDX
 const MDXComponents = {
@@ -213,6 +213,19 @@ const MDXComponents = {
     <div className="quick-ref-card my-6">
       {title && <h4 className="mb-3 text-lg font-semibold text-primary-900">{title}</h4>}
       {children}
+    </div>
+  ),
+
+  DownloadButton: ({ href, children }: { href: string; children: React.ReactNode }) => (
+    <div className="my-6">
+      <a
+        href={href}
+        download
+        className="inline-flex items-center gap-2 rounded-lg bg-primary-600 px-6 py-3 text-base font-medium text-white transition-colors hover:bg-primary-700"
+      >
+        <Download className="h-5 w-5" />
+        {children}
+      </a>
     </div>
   ),
 }

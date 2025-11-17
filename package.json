@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
-    "predeploy": "npm run typecheck && npm run lint && npm run build",
-    "postbuild": "npx pagefind --site .next/static --output-path public/pagefind"
+    "predeploy": "npm run typecheck && npm run lint && npm run build"
   },
   "dependencies": {
     "clsx": "^2.1.1",
