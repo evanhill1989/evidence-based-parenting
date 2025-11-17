@@ -1,37 +1,38 @@
-import { notFound } from 'next/navigation'
-import { allBlogPosts } from 'contentlayer/generated'
-import { getMDXComponent } from 'next-contentlayer2/hooks'
-import { formatDate, getCategoryLabel, getAgeRangeLabel } from '@/lib/utils'
-import { getRelatedContent } from '@/lib/content'
-import { generateArticleMetadata } from '@/lib/metadata'
-import { Breadcrumbs } from '@/components/layout/Breadcrumbs'
-import { RelatedContent } from '@/components/content/RelatedContent'
-import { TableOfContents, extractHeadings } from '@/components/content/TableOfContents'
-import MDXComponents from '@/components/content/MDXComponents'
-import { Clock, Calendar, Tag, User } from 'lucide-react'
-import type { Metadata } from 'next'
+import { notFound } from "next/navigation";
+import { allBlogPosts } from "contentlayer/generated";
+import { getMDXComponent } from "next-contentlayer2/hooks";
+import { formatDate, getCategoryLabel, getAgeRangeLabel } from "@/lib/utils";
+import { getRelatedContent } from "@/lib/content";
+import { generateArticleMetadata } from "@/lib/metadata";
+import { extractHeadings } from "@/lib/extract-headings";
+import { Breadcrumbs } from "@/components/layout/Breadcrumbs";
+import { RelatedContent } from "@/components/content/RelatedContent";
+import { TableOfContents } from "@/components/content/TableOfContents";
+import MDXComponents from "@/components/content/MDXComponents";
+import { Clock, Calendar, Tag, User } from "lucide-react";
+import type { Metadata } from "next";
 
 interface BlogPostPageProps {
   params: {
-    slug: string
-  }
+    slug: string;
+  };
 }
 
 // Generate static params for all blog posts
 export async function generateStaticParams() {
   return allBlogPosts.map((post) => ({
     slug: post.slug,
-  }))
+  }));
 }
 
 // Generate metadata for SEO
 export async function generateMetadata({
   params,
 }: BlogPostPageProps): Promise<Metadata> {
-  const post = allBlogPosts.find((post) => post.slug === params.slug)
+  const post = allBlogPosts.find((post) => post.slug === params.slug);
 
   if (!post) {
-    return {}
+    return {};
   }
 
   return generateArticleMetadata({
@@ -43,28 +44,26 @@ export async function generateMetadata({
     authors: [post.author],
     tags: post.tags,
     canonicalUrl: post.url,
-  })
+  });
 }
 
 export default function BlogPostPage({ params }: BlogPostPageProps) {
-  const post = allBlogPosts.find((post) => post.slug === params.slug)
+  const post = allBlogPosts.find((post) => post.slug === params.slug);
 
   if (!post) {
-    notFound()
+    notFound();
   }
 
-  const MDXContent = getMDXComponent(post.body.code)
-  const relatedContent = getRelatedContent(post, 3)
-  const headings = extractHeadings(post.body.html)
+  const MDXContent = getMDXComponent(post.body.code);
+  const relatedContent = getRelatedContent(post, 3);
+  const headings = extractHeadings(post.body.html);
+  // #TODO
 
   return (
-    <article className="py-12">
+    <article className="py-12 ">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <Breadcrumbs
-          items={[
-            { label: 'Blog', href: '/blog' },
-            { label: post.title },
-          ]}
+          items={[{ label: "Blog", href: "/blog" }, { label: post.title }]}
         />
 
         <div className="mx-auto max-w-4xl">
@@ -178,5 +177,5 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
         )}
       </div>
     </article>
-  )
+  );
 }

@@ -1,12 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-
-interface Heading {
-  id: string
-  text: string
-  level: number
-}
+import type { Heading } from '@/lib/extract-headings'
 
 interface TableOfContentsProps {
   headings: Heading[]
@@ -81,23 +76,4 @@ export function TableOfContents({ headings }: TableOfContentsProps) {
       </ul>
     </nav>
   )
-}
-
-/**
- * Extract headings from HTML content
- */
-export function extractHeadings(html: string): Heading[] {
-  const headingRegex = /<h([2-4])[^>]*id="([^"]*)"[^>]*>(.+?)<\/h\1>/g
-  const headings: Heading[] = []
-  let match
-
-  while ((match = headingRegex.exec(html)) !== null) {
-    headings.push({
-      level: parseInt(match[1]),
-      id: match[2],
-      text: match[3].replace(/<[^>]*>/g, ''), // Strip HTML tags
-    })
-  }
-
-  return headings
 }
