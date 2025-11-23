@@ -63,10 +63,18 @@ export function TableOfContents({ headings }: TableOfContentsProps) {
               }`}
               onClick={(e) => {
                 e.preventDefault()
-                document.getElementById(heading.id)?.scrollIntoView({
-                  behavior: 'smooth',
-                  block: 'start',
-                })
+                const element = document.getElementById(heading.id)
+                if (element) {
+                  const navbarHeight = 64 // h-16 = 64px
+                  const offset = 20 // Additional padding
+                  const elementPosition = element.getBoundingClientRect().top
+                  const offsetPosition = elementPosition + window.pageYOffset - navbarHeight - offset
+
+                  window.scrollTo({
+                    top: offsetPosition,
+                    behavior: 'smooth'
+                  })
+                }
               }}
             >
               {heading.text}

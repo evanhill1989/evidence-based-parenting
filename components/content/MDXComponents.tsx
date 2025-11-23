@@ -39,11 +39,33 @@ const MDXComponents = {
   ),
 
   // Paragraphs
-  p: ({ children, ...props }: React.HTMLAttributes<HTMLParagraphElement>) => (
-    <p className="mb-4 leading-7 text-gray-700" {...props}>
-      {children}
-    </p>
-  ),
+  p: ({ children, ...props }: React.HTMLAttributes<HTMLParagraphElement>) => {
+    // Check if this paragraph starts with a checkbox character
+    const childText = typeof children === 'string' ? children :
+                     Array.isArray(children) && typeof children[0] === 'string' ? children[0] : ''
+    const startsWithCheckbox = childText.toString().trim().startsWith('□')
+
+    if (startsWithCheckbox) {
+      return (
+        <p className="mb-4 flex items-start gap-3 leading-7 text-gray-700" {...props}>
+          <span className="text-2xl font-normal leading-tight text-primary-600 mt-0.5">□</span>
+          <span className="flex-1">
+            {Array.isArray(children) && typeof children[0] === 'string'
+              ? [children[0].replace(/^□\s*/, ''), ...children.slice(1)]
+              : typeof children === 'string'
+              ? children.replace(/^□\s*/, '')
+              : children}
+          </span>
+        </p>
+      )
+    }
+
+    return (
+      <p className="mb-4 leading-7 text-gray-700" {...props}>
+        {children}
+      </p>
+    )
+  },
 
   // Links
   a: ({ children, href, ...props }: React.AnchorHTMLAttributes<HTMLAnchorElement>) => {

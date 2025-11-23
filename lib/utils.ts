@@ -49,3 +49,15 @@ export function getCategoryLabel(category: string): string {
   }
   return labels[category] || category
 }
+
+/**
+ * Get difficulty level display name
+ */
+export function getDifficultyLabel(difficulty: string): string {
+  const labels: Record<string, string> = {
+    beginner: 'Beginner',
+    intermediate: 'Intermediate',
+    advanced: 'Advanced',
+  }
+  return labels[difficulty] || difficulty
+}

@@ -360,16 +360,6 @@ export default makeSource({
           keepBackground: false,
         },
       ],
-      [
-        rehypeAutolinkHeadings,
-        {
-          behavior: 'wrap',
-          properties: {
-            className: ['anchor'],
-            ariaLabel: 'Link to section',
-          },
-        },
-      ],
     ],
   },
 })

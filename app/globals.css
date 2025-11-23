@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@plugin "@tailwindcss/typography";
 
 @theme {
   /* Professional but warm color palette */
@@ -89,20 +88,6 @@
   }
 }
 
-/* Anchor links in headings */
-.anchor {
-  @apply invisible absolute -ml-6 pr-2 text-gray-400 no-underline;
-}
-
-h1:hover .anchor,
-h2:hover .anchor,
-h3:hover .anchor,
-h4:hover .anchor,
-h5:hover .anchor,
-h6:hover .anchor {
-  @apply visible;
-}
-
 /* Code blocks */
 pre {
   @apply overflow-x-auto rounded-lg border bg-gray-50 p-4;
@@ -151,17 +136,80 @@ pre code {
   @apply font-semibold text-primary-600;
 }
 
-/* Prose styles for MDX content */
+/* Custom Prose styles for MDX content (replacing @tailwindcss/typography) */
 .prose {
   max-width: 70ch;
   color: #374151;
+  font-size: 1.125rem;
+  line-height: 1.75;
 }
 
+/* Headings - ensuring they are always visible and properly styled */
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  color: #111827 !important;
+  font-weight: 700;
+  line-height: 1.25;
+  scroll-margin-top: 100px; /* For anchor link navigation */
+}
+
+.prose h1 {
+  font-size: 2.25rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.1111111;
+}
+
+.prose h2 {
+  font-size: 1.875rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.3333333;
+}
+
+.prose h3 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+}
+
+.prose h4 {
+  font-size: 1.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+.prose h5 {
+  font-size: 1.125rem;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.prose h6 {
+  font-size: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Paragraphs */
+.prose p {
+  margin-bottom: 1rem;
+  line-height: 1.75;
+}
+
+/* Links */
 .prose a {
   color: var(--color-primary-600);
   text-decoration: underline;
   text-decoration-color: var(--color-primary-200);
   text-underline-offset: 2px;
+  transition: all 0.2s;
 }
 
 .prose a:hover {
@@ -169,16 +217,36 @@ pre code {
   text-decoration-color: var(--color-primary-600);
 }
 
-.prose h1,
-.prose h2,
-.prose h3,
-.prose h4 {
-  color: #111827;
-  font-weight: 700;
-}
-
+/* Strong and emphasis */
 .prose strong {
   color: #111827;
+  font-weight: 600;
+}
+
+.prose em {
+  font-style: italic;
+}
+
+/* Lists */
+.prose ul,
+.prose ol {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding-left: 1.625rem;
+}
+
+.prose ul {
+  list-style-type: disc;
+}
+
+.prose ol {
+  list-style-type: decimal;
+}
+
+.prose li {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.75;
 }
 
 .prose ul > li::marker {
@@ -187,13 +255,36 @@ pre code {
 
 .prose ol > li::marker {
   color: var(--color-primary-600);
+  font-weight: 600;
 }
 
+.prose ul ul,
+.prose ul ol,
+.prose ol ul,
+.prose ol ol {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Blockquotes */
+.prose blockquote {
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  border-left: 4px solid var(--color-primary-500);
+  background-color: var(--color-primary-50);
+  padding: 1rem 1.5rem;
+  font-style: italic;
+  color: #374151;
+}
+
+/* Code */
 .prose code {
   background-color: #f3f4f6;
   border-radius: 0.25rem;
   padding: 0.125rem 0.375rem;
-  font-size: 0.875rem;
+  font-size: 0.875em;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  color: #1f2937;
 }
 
 .prose pre {
@@ -202,9 +293,56 @@ pre code {
   border-radius: 0.5rem;
   padding: 1rem;
   overflow-x: auto;
+  margin: 1.5rem 0;
 }
 
 .prose pre code {
   background-color: transparent;
   padding: 0;
+  font-size: 0.875rem;
+  border-radius: 0;
+}
+
+/* Tables */
+.prose table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.prose th {
+  background-color: #f9fafb;
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.prose td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* Horizontal rule */
+.prose hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid #e5e7eb;
+}
+
+/* Images */
+.prose img {
+  margin: 1.5rem 0;
+  border-radius: 0.5rem;
+}
+
+/* First element margin */
+.prose > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Last element margin */
+.prose > :last-child {
+  margin-bottom: 0 !important;
 }
