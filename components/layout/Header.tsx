@@ -1,19 +1,21 @@
-'use client'
+"use client";
 
-import Link from 'next/link'
-import { useState } from 'react'
-import { Menu, X, Search } from 'lucide-react'
+import Link from "next/link";
+import { useState } from "react";
+import { Menu, X, Search } from "lucide-react";
+import { SearchModal } from "@/components/search/SearchModal";
 
 export function Header() {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [searchModalOpen, setSearchModalOpen] = useState(false);
 
   const navigation = [
-    { name: 'Quick Help', href: '/quick-help' },
-    { name: 'By Age', href: '/age' },
-    { name: 'Guides', href: '/guides' },
-    { name: 'Blog', href: '/blog' },
-    { name: 'About', href: '/about' },
-  ]
+    { name: "Quick Help", href: "/quick-help" },
+    { name: "By Age", href: "/age" },
+    { name: "Guides", href: "/guides" },
+    { name: "Blog", href: "/blog" },
+    { name: "About", href: "/about" },
+  ];
 
   return (
     <header className="sticky top-0 z-50 border-b bg-white shadow-sm">
@@ -40,8 +42,9 @@ export function Header() {
             <button
               className="rounded-lg p-2 text-gray-600 hover:bg-gray-100"
               aria-label="Search"
+              onClick={() => setSearchModalOpen(true)}
             >
-              <Search className="h-5 w-5" />
+              <Search className="h-5 w-5 cursor-pointer" />
             </button>
           </div>
 
@@ -76,7 +79,13 @@ export function Header() {
                   {item.name}
                 </Link>
               ))}
-              <button className="flex items-center gap-2 text-base font-medium text-gray-700">
+              <button
+                className="flex items-center gap-2 text-base font-medium text-gray-700"
+                onClick={() => {
+                  setSearchModalOpen(true);
+                  setMobileMenuOpen(false);
+                }}
+              >
                 <Search className="h-5 w-5" />
                 Search
               </button>
@@ -84,6 +93,10 @@ export function Header() {
           </div>
         )}
       </nav>
+      <SearchModal
+        isOpen={searchModalOpen}
+        onClose={() => setSearchModalOpen(false)}
+      />
     </header>
-  )
+  );
 }
