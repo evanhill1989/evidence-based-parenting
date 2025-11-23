@@ -158,6 +158,10 @@ export const QuickHelp = defineDocumentType(() => ({
       options: ["high", "medium", "low"],
       required: true,
     },
+    publishedAt: {
+      type: "date",
+      required: true,
+    },
     medicalDisclaimer: {
       type: "boolean",
       default: false,
@@ -241,6 +245,14 @@ export const Guide = defineDocumentType(() => ({
     },
     updatedAt: {
       type: "date",
+      required: false,
+    },
+    author: {
+      type: "string",
+      required: true,
+    },
+    image: {
+      type: "string",
       required: false,
     },
     tags: {
