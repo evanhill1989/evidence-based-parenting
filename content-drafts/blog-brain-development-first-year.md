@@ -621,13 +621,13 @@ A: "Damage" is too strong—it's not like exposure causes structural brain damag
 
 ## About the Author
 
-**[YOUR NAME], MSN, CPNP-AC**, is a board-certified Pediatric Nurse Practitioner specializing in pediatric neurology with over 8 years of clinical experience. After spending 2 years in developmental pediatrics, [she/he] has dedicated the past 6+ years to evaluating and treating children with neurological and developmental concerns.
+**Alisha Blevins, MSN, CPNP-PC, Pediatric Neurology NP**, is a board-certified Pediatric Nurse Practitioner specializing in pediatric neurology with over 8 years of clinical experience. After spending 2 years in developmental pediatrics, she has dedicated the past 6+ years to evaluating and treating children with neurological and developmental concerns.
 
 **[PERSONAL TOUCH: Add why you're passionate about helping parents understand brain development, what you find most remarkable about infant neurology, or what inspired this article. ~50 words]**
 
 ---
 
-**Medical Review:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Medical Review:** Alisha Blevins, MSN, CPNP-PC, Pediatric Neurology NP
 **Published:** [Date]
 **Last Updated:** [Date]
 

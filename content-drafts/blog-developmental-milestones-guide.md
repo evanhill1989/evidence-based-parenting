@@ -499,13 +499,13 @@ Quick reference of concerning signs that warrant immediate attention:
 
 ## About the Author
 
-**[YOUR NAME], MSN, CPNP-AC**, is a board-certified Pediatric Nurse Practitioner specializing in pediatric neurology with over 8 years of clinical experience. After spending 2 years in developmental pediatrics, [she/he] has dedicated the past 6+ years to evaluating and treating children with neurological and developmental concerns.
+**Alisha Blevins, MSN, CPNP-PC, Pediatric Neurology NP**, is a board-certified Pediatric Nurse Practitioner specializing in pediatric neurology with over 8 years of clinical experience. After spending 2 years in developmental pediatrics, she has dedicated the past 6+ years to evaluating and treating children with neurological and developmental concerns.
 
 **[PERSONAL TOUCH: Add 2-3 sentences about why you're passionate about developmental health, what you love about your work, or what inspired you to create this site. ~50 words]**
 
 ---
 
-**Medical Review:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Medical Review:** Alisha Blevins, MSN, CPNP-PC, Pediatric Neurology NP
 **Published:** [Date]
 **Last Updated:** [Date]
 

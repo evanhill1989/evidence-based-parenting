@@ -902,13 +902,13 @@ A: Yes, seizures can occur during sleep. Some epilepsy types are more likely to 
 
 ## About the Author
 
-**[YOUR NAME], MSN, CPNP-AC**, is a board-certified Pediatric Nurse Practitioner specializing in pediatric neurology with over 8 years of clinical experience. After spending 2 years in developmental pediatrics, [she/he] has dedicated the past 6+ years to evaluating and treating children with neurological conditions including seizure disorders.
+**Alisha Blevins, MSN, CPNP-PC, Pediatric Neurology NP**, is a board-certified Pediatric Nurse Practitioner specializing in pediatric neurology with over 8 years of clinical experience. After spending 2 years in developmental pediatrics, she has dedicated the past 6+ years to evaluating and treating children with neurological conditions including seizure disorders.
 
 **[PERSONAL TOUCH: Add why you're passionate about helping families navigate seizure disorders, what you find most important about seizure education, or what you want parents to know. ~50 words]**
 
 ---
 
-**Medical Review:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Medical Review:** Alisha Blevins, MSN, CPNP-PC, Pediatric Neurology NP
 **Published:** [Date]
 **Last Updated:** [Date]
 
