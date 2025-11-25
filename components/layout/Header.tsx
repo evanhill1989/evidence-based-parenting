@@ -2,12 +2,14 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { Menu, X, Search } from "lucide-react";
+import { Menu, X, Search, Moon, Sun } from "lucide-react";
 import { SearchModal } from "@/components/search/SearchModal";
+import { useTheme } from "@/components/providers/ThemeProvider";
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchModalOpen, setSearchModalOpen] = useState(false);
+  const { theme, toggleTheme } = useTheme();
 
   const navigation = [
     { name: "Quick Help", href: "/quick-help" },
@@ -18,12 +20,12 @@ export function Header() {
   ];
 
   return (
-    <header className="sticky top-0 z-50 border-b bg-white shadow-sm">
+    <header className="sticky top-0 z-50 border-b bg-white shadow-sm dark:bg-slate-900 dark:border-slate-700">
       <nav className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <div className="flex items-center">
-            <Link href="/" className="text-xl font-bold text-primary-600">
+            <Link href="/" className="text-xl font-bold text-primary-600 dark:text-primary-300">
               Evidence-Based Parenting
             </Link>
           </div>
@@ -34,25 +36,47 @@ export function Header() {
               <Link
                 key={item.name}
                 href={item.href}
-                className="text-sm font-medium text-gray-700 transition-colors hover:text-primary-600"
+                className="text-sm font-medium text-gray-700 transition-colors hover:text-primary-600 dark:text-gray-100 dark:hover:text-primary-300"
               >
                 {item.name}
               </Link>
             ))}
             <button
-              className="rounded-lg p-2 text-gray-600 hover:bg-gray-100"
+              className="rounded-lg p-2 text-gray-600 hover:bg-gray-100 dark:text-gray-100 dark:hover:bg-slate-800"
               aria-label="Search"
               onClick={() => setSearchModalOpen(true)}
             >
               <Search className="h-5 w-5 cursor-pointer" />
             </button>
+            <button
+              className="rounded-lg p-2 text-gray-600 hover:bg-gray-100 dark:text-gray-100 dark:hover:bg-slate-800"
+              aria-label="Toggle dark mode"
+              onClick={toggleTheme}
+            >
+              {theme === "light" ? (
+                <Moon className="h-5 w-5" />
+              ) : (
+                <Sun className="h-5 w-5" />
+              )}
+            </button>
           </div>
 
           {/* Mobile menu button */}
-          <div className="flex md:hidden">
+          <div className="flex items-center gap-2 md:hidden">
+            <button
+              className="rounded-lg p-2 text-gray-600 hover:bg-gray-100 dark:text-gray-100 dark:hover:bg-slate-800"
+              aria-label="Toggle dark mode"
+              onClick={toggleTheme}
+            >
+              {theme === "light" ? (
+                <Moon className="h-5 w-5" />
+              ) : (
+                <Sun className="h-5 w-5" />
+              )}
+            </button>
             <button
               type="button"
-              className="rounded-lg p-2 text-gray-700 hover:bg-gray-100"
+              className="rounded-lg p-2 text-gray-700 hover:bg-gray-100 dark:text-gray-100 dark:hover:bg-slate-800"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             >
               <span className="sr-only">Open menu</span>
@@ -67,20 +91,20 @@ export function Header() {
 
         {/* Mobile menu */}
         {mobileMenuOpen && (
-          <div className="border-t py-4 md:hidden">
+          <div className="border-t py-4 md:hidden dark:border-slate-700">
             <div className="flex flex-col space-y-4">
               {navigation.map((item) => (
                 <Link
                   key={item.name}
                   href={item.href}
-                  className="text-base font-medium text-gray-700 hover:text-primary-600"
+                  className="text-base font-medium text-gray-700 hover:text-primary-600 dark:text-gray-100 dark:hover:text-primary-300"
                   onClick={() => setMobileMenuOpen(false)}
                 >
                   {item.name}
                 </Link>
               ))}
               <button
-                className="flex items-center gap-2 text-base font-medium text-gray-700"
+                className="flex items-center gap-2 text-base font-medium text-gray-700 dark:text-gray-100"
                 onClick={() => {
                   setSearchModalOpen(true);
                   setMobileMenuOpen(false);

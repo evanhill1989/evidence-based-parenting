@@ -48,6 +48,41 @@
   --radius: 0.5rem;
 }
 
+.dark {
+  /* Dark mode color palette */
+  --color-primary-50: #0c4a6e;
+  --color-primary-100: #075985;
+  --color-primary-200: #0369a1;
+  --color-primary-300: #0284c7;
+  --color-primary-400: #0ea5e9;
+  --color-primary-500: #38bdf8;
+  --color-primary-600: #7dd3fc;
+  --color-primary-700: #bae6fd;
+  --color-primary-800: #e0f2fe;
+  --color-primary-900: #f0f9ff;
+
+  /* Dark mode design tokens */
+  --color-background: #0f172a;
+  --color-foreground: #f8fafc;
+  --color-card: #1e293b;
+  --color-card-foreground: #f8fafc;
+  --color-popover: #1e293b;
+  --color-popover-foreground: #f8fafc;
+  --color-primary: var(--color-primary-600);
+  --color-primary-foreground: hsl(222.2 47.4% 11.2%);
+  --color-secondary: hsl(217.2 32.6% 17.5%);
+  --color-secondary-foreground: #f8fafc;
+  --color-muted: hsl(217.2 32.6% 17.5%);
+  --color-muted-foreground: #cbd5e1;
+  --color-accent: hsl(217.2 32.6% 17.5%);
+  --color-accent-foreground: #f8fafc;
+  --color-destructive: hsl(0 62.8% 30.6%);
+  --color-destructive-foreground: #f8fafc;
+  --color-border: hsl(217.2 32.6% 17.5%);
+  --color-input: hsl(217.2 32.6% 17.5%);
+  --color-ring: var(--color-primary-600);
+}
+
 @layer base {
   * {
     border-color: var(--color-border);
@@ -93,8 +128,16 @@ pre {
   @apply overflow-x-auto rounded-lg border bg-gray-50 p-4;
 }
 
+.dark pre {
+  @apply bg-slate-800 border-slate-700;
+}
+
 code {
   @apply rounded-xs bg-gray-100 px-1.5 py-0.5 text-sm;
+}
+
+.dark code {
+  @apply bg-slate-800 text-gray-200;
 }
 
 pre code {
@@ -144,6 +187,10 @@ pre code {
   line-height: 1.75;
 }
 
+.dark .prose {
+  color: #f1f5f9;
+}
+
 /* Headings - ensuring they are always visible and properly styled */
 .prose h1,
 .prose h2,
@@ -155,6 +202,15 @@ pre code {
   font-weight: 700;
   line-height: 1.25;
   scroll-margin-top: 100px; /* For anchor link navigation */
+}
+
+.dark .prose h1,
+.dark .prose h2,
+.dark .prose h3,
+.dark .prose h4,
+.dark .prose h5,
+.dark .prose h6 {
+  color: #ffffff !important;
 }
 
 .prose h1 {
@@ -223,6 +279,10 @@ pre code {
   font-weight: 600;
 }
 
+.dark .prose strong {
+  color: #ffffff;
+}
+
 .prose em {
   font-style: italic;
 }
@@ -277,6 +337,11 @@ pre code {
   color: #374151;
 }
 
+.dark .prose blockquote {
+  background-color: #1e293b;
+  color: #f8fafc;
+}
+
 /* Code */
 .prose code {
   background-color: #f3f4f6;
@@ -287,6 +352,11 @@ pre code {
   color: #1f2937;
 }
 
+.dark .prose code {
+  background-color: #1e293b;
+  color: #fafafa;
+}
+
 .prose pre {
   background-color: #f9fafb;
   border: 1px solid #e5e7eb;
@@ -294,6 +364,11 @@ pre code {
   padding: 1rem;
   overflow-x: auto;
   margin: 1.5rem 0;
+}
+
+.dark .prose pre {
+  background-color: #1e293b;
+  border-color: #334155;
 }
 
 .prose pre code {
@@ -319,9 +394,18 @@ pre code {
   border-bottom: 2px solid #e5e7eb;
 }
 
+.dark .prose th {
+  background-color: #1e293b;
+  border-bottom-color: #334155;
+}
+
 .prose td {
   padding: 0.75rem;
   border-bottom: 1px solid #e5e7eb;
+}
+
+.dark .prose td {
+  border-bottom-color: #334155;
 }
 
 /* Horizontal rule */

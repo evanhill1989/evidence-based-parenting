@@ -13,7 +13,7 @@ const MDXComponents = {
   // Headings with anchor support
   h1: ({ children, ...props }: React.HTMLAttributes<HTMLHeadingElement>) => (
     <h1
-      className="mb-6 mt-8 text-4xl font-bold tracking-tight text-gray-900 first:mt-0"
+      className="mb-6 mt-8 text-4xl font-bold tracking-tight text-gray-100 first:mt-0"
       {...props}
     >
       {children}
@@ -21,19 +21,19 @@ const MDXComponents = {
   ),
   h2: ({ children, ...props }: React.HTMLAttributes<HTMLHeadingElement>) => (
     <h2
-      className="mb-4 mt-8 text-3xl font-bold tracking-tight text-gray-900"
+      className="mb-4 mt-8 text-3xl font-bold tracking-tight text-gray-100"
       {...props}
     >
       {children}
     </h2>
   ),
   h3: ({ children, ...props }: React.HTMLAttributes<HTMLHeadingElement>) => (
-    <h3 className="mb-3 mt-6 text-2xl font-semibold text-gray-900" {...props}>
+    <h3 className="mb-3 mt-6 text-2xl font-semibold text-gray-100" {...props}>
       {children}
     </h3>
   ),
   h4: ({ children, ...props }: React.HTMLAttributes<HTMLHeadingElement>) => (
-    <h4 className="mb-2 mt-4 text-xl font-semibold text-gray-900" {...props}>
+    <h4 className="mb-2 mt-4 text-xl font-semibold text-gray-100" {...props}>
       {children}
     </h4>
   ),
@@ -52,7 +52,7 @@ const MDXComponents = {
     if (startsWithCheckbox) {
       return (
         <p
-          className="mb-4 flex items-start gap-3 leading-7 text-gray-700"
+          className="mb-4 flex items-start gap-3 leading-7 text-gray-200"
           {...props}
         >
           <Square />
@@ -68,7 +68,7 @@ const MDXComponents = {
     }
 
     return (
-      <p className="mb-4 leading-7 text-gray-700" {...props}>
+      <p className="mb-4 leading-7 text-gray-200" {...props}>
         {children}
       </p>
     );
@@ -122,12 +122,12 @@ const MDXComponents = {
 
   // Lists
   ul: ({ children, ...props }: React.HTMLAttributes<HTMLUListElement>) => (
-    <ul className="mb-4 ml-6 list-disc space-y-2 text-gray-700" {...props}>
+    <ul className="mb-4 ml-6 list-disc space-y-2 text-gray-100" {...props}>
       {children}
     </ul>
   ),
   ol: ({ children, ...props }: React.OlHTMLAttributes<HTMLOListElement>) => (
-    <ol className="mb-4 ml-6 list-decimal space-y-2 text-gray-700" {...props}>
+    <ol className="mb-4 ml-6 list-decimal space-y-2 text-gray-100" {...props}>
       {children}
     </ol>
   ),
@@ -143,7 +143,7 @@ const MDXComponents = {
     ...props
   }: React.BlockquoteHTMLAttributes<HTMLQuoteElement>) => (
     <blockquote
-      className="mb-4 border-l-4 border-primary-500 bg-primary-50 py-2 pl-6 pr-4 italic text-gray-700"
+      className="mb-4 border-l-4 border-primary-500 bg-primary-50 py-2 pl-6 pr-4 italic text-gray-100"
       {...props}
     >
       {children}
@@ -166,7 +166,7 @@ const MDXComponents = {
     ...props
   }: React.ThHTMLAttributes<HTMLTableCellElement>) => (
     <th
-      className="bg-gray-50 px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-700"
+      className="bg-gray-50 px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-100"
       {...props}
     >
       {children}
@@ -177,7 +177,7 @@ const MDXComponents = {
     ...props
   }: React.TdHTMLAttributes<HTMLTableCellElement>) => (
     <td
-      className="whitespace-nowrap px-6 py-4 text-sm text-gray-700"
+      className="whitespace-nowrap px-6 py-4 text-sm text-gray-100"
       {...props}
     >
       {children}
