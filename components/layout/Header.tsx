@@ -25,7 +25,10 @@ export function Header() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <div className="flex items-center">
-            <Link href="/" className="text-xl font-bold text-primary-600 dark:text-primary-300">
+            <Link
+              href="/"
+              className="text-xl font-bold text-primary-600 dark:text-primary-300"
+            >
               Evidence-Based Parenting
             </Link>
           </div>

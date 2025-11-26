@@ -179,6 +179,14 @@ pre code {
   @apply font-semibold text-primary-600;
 }
 
+h2,
+h3,
+h4,
+h5,
+h6 {
+  scroll-margin-top: 80px; /* Adjust to match your navbar height */
+}
+
 /* Custom Prose styles for MDX content (replacing @tailwindcss/typography) */
 .prose {
   max-width: 70ch;
