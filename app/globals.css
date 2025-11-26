@@ -64,8 +64,8 @@
   /* Dark mode design tokens */
   --color-background: #0f172a;
   --color-foreground: #f8fafc;
-  --color-card: #1e293b;
-  --color-card-foreground: #f8fafc;
+  --color-card: #f8fafc;
+  --color-card-foreground: #1e293b;
   --color-popover: #1e293b;
   --color-popover-foreground: #f8fafc;
   --color-primary: var(--color-primary-600);
@@ -149,13 +149,35 @@ pre code {
   @apply rounded-lg border-l-4 border-yellow-400 bg-yellow-50 p-4 text-sm;
 }
 
+.medical-disclaimer * {
+  @apply text-card-foreground;
+}
+/* Info Box styling */
+.info-box {
+  @apply rounded-lg border-l-4 border-blue-500 bg-blue-50 p-4;
+}
+.info-box * {
+  @apply text-card-foreground;
+}
+.info-box h6 {
+  @apply mb-1 font-semibold text-blue-900;
+}
+
+/* Urgent Callout styling */
 .urgent-callout {
   @apply rounded-lg border-l-4 border-red-500 bg-red-50 p-4 font-medium text-red-900;
 }
 
+.urgent-callout * {
+  @apply text-card-foreground;
+}
 /* Quick reference card styling */
 .quick-ref-card {
   @apply rounded-lg border-2 border-primary-200 bg-primary-50 p-6;
+}
+
+.quick-ref-card * {
+  @apply text-card-foreground;
 }
 
 /* Table of contents */

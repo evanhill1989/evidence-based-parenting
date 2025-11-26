@@ -13,7 +13,7 @@ const MDXComponents = {
   // Headings with anchor support
   h1: ({ children, ...props }: React.HTMLAttributes<HTMLHeadingElement>) => (
     <h1
-      className="mb-6 mt-8 text-4xl font-bold tracking-tight text-gray-100 first:mt-0"
+      className="mb-6 mt-8 text-4xl font-bold tracking-tight text-foreground first:mt-0"
       {...props}
     >
       {children}
@@ -21,19 +21,19 @@ const MDXComponents = {
   ),
   h2: ({ children, ...props }: React.HTMLAttributes<HTMLHeadingElement>) => (
     <h2
-      className="mb-4 mt-8 text-3xl font-bold tracking-tight text-gray-100"
+      className="mb-4 mt-8 text-3xl font-bold tracking-tight text-foreground"
       {...props}
     >
       {children}
     </h2>
   ),
   h3: ({ children, ...props }: React.HTMLAttributes<HTMLHeadingElement>) => (
-    <h3 className="mb-3 mt-6 text-2xl font-semibold text-gray-100" {...props}>
+    <h3 className="mb-3 mt-6 text-2xl font-semibold text-foreground" {...props}>
       {children}
     </h3>
   ),
   h4: ({ children, ...props }: React.HTMLAttributes<HTMLHeadingElement>) => (
-    <h4 className="mb-2 mt-4 text-xl font-semibold text-gray-100" {...props}>
+    <h4 className="mb-2 mt-4 text-xl font-semibold text-foreground" {...props}>
       {children}
     </h4>
   ),
@@ -52,7 +52,7 @@ const MDXComponents = {
     if (startsWithCheckbox) {
       return (
         <p
-          className="mb-4 flex items-start gap-3 leading-7 text-gray-200"
+          className="mb-4 flex items-start gap-3 leading-7 text-foreground"
           {...props}
         >
           <Square />
@@ -68,7 +68,7 @@ const MDXComponents = {
     }
 
     return (
-      <p className="mb-4 leading-7 text-gray-200" {...props}>
+      <p className="mb-4 leading-7 text-foreground" {...props}>
         {children}
       </p>
     );
@@ -122,12 +122,12 @@ const MDXComponents = {
 
   // Lists
   ul: ({ children, ...props }: React.HTMLAttributes<HTMLUListElement>) => (
-    <ul className="mb-4 ml-6 list-disc space-y-2 text-gray-100" {...props}>
+    <ul className="mb-4 ml-6 list-disc space-y-2 text-foreground" {...props}>
       {children}
     </ul>
   ),
   ol: ({ children, ...props }: React.OlHTMLAttributes<HTMLOListElement>) => (
-    <ol className="mb-4 ml-6 list-decimal space-y-2 text-gray-100" {...props}>
+    <ol className="mb-4 ml-6 list-decimal space-y-2 text-foreground" {...props}>
       {children}
     </ol>
   ),
@@ -143,7 +143,7 @@ const MDXComponents = {
     ...props
   }: React.BlockquoteHTMLAttributes<HTMLQuoteElement>) => (
     <blockquote
-      className="mb-4 border-l-4 border-primary-500 bg-primary-50 py-2 pl-6 pr-4 italic text-gray-100"
+      className="mb-4 border-l-4 border-primary-500 bg-primary-50 py-2 pl-6 pr-4 italic text-foreground"
       {...props}
     >
       {children}
@@ -166,7 +166,7 @@ const MDXComponents = {
     ...props
   }: React.ThHTMLAttributes<HTMLTableCellElement>) => (
     <th
-      className="bg-gray-50 px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-100"
+      className="bg-gray-50 px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-foreground"
       {...props}
     >
       {children}
@@ -177,7 +177,7 @@ const MDXComponents = {
     ...props
   }: React.TdHTMLAttributes<HTMLTableCellElement>) => (
     <td
-      className="whitespace-nowrap px-6 py-4 text-sm text-gray-100"
+      className="whitespace-nowrap px-6 py-4 text-sm text-foreground"
       {...props}
     >
       {children}
@@ -231,7 +231,7 @@ const MDXComponents = {
   // Custom callout components
   MedicalDisclaimer: ({ children }: { children: React.ReactNode }) => (
     <div className="medical-disclaimer my-6 flex gap-3">
-      <AlertCircle className="mt-0.5 h-5 w-5 flex-shrink-0 text-yellow-600" />
+      <AlertCircle className="mt-0.5 h-5 w-5 shrink-0 text-yellow-600" />
       <div>
         <p className="mb-1 font-semibold text-yellow-900">Medical Disclaimer</p>
         <div className="text-sm text-yellow-800">{children}</div>
@@ -241,10 +241,10 @@ const MDXComponents = {
 
   WhenToCallDoctor: ({ children }: { children: React.ReactNode }) => (
     <div className="urgent-callout my-6 flex gap-3">
-      <AlertTriangle className="mt-0.5 h-5 w-5 flex-shrink-0 text-red-600" />
+      <AlertTriangle className="mt-0.5 h-5 w-5 shrink-0  text-red-600!" />
       <div>
-        <p className="mb-1 font-bold text-red-900">When to Call Your Doctor</p>
-        <div className="text-sm">{children}</div>
+        <p className="mb-1 font-bold text-red-900!">When to Call Your Doctor</p>
+        <div className="text-sm ">{children}</div>
       </div>
     </div>
   ),
@@ -256,11 +256,11 @@ const MDXComponents = {
     children: React.ReactNode;
     title?: string;
   }) => (
-    <div className="my-6 rounded-lg border-l-4 border-blue-500 bg-blue-50 p-4">
+    <div className="my-6 info-box">
       <div className="flex gap-3">
-        <Info className="mt-0.5 h-5 w-5 flex-shrink-0 text-blue-600" />
+        <Info className="mt-0.5 h-5 w-5 shrink-0 text-blue-600!" />
         <div>
-          {title && <p className="mb-1 font-semibold text-blue-900">{title}</p>}
+          {title && <h6>{title}</h6>}
           <div className="text-sm text-blue-800">{children}</div>
         </div>
       </div>
