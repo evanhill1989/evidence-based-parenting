@@ -1,3 +1,5 @@
+import GithubSlugger from 'github-slugger'
+
 export interface Heading {
   id: string;
   text: string;
@@ -11,16 +13,14 @@ export function extractHeadings(raw: string): Heading[] {
   // Match markdown headings (##, ###, ####)
   const headingRegex = /^(#{2})\s+(.+)$/gm;
   const headings: Heading[] = [];
+  const slugger = new GithubSlugger();
   let match;
 
   while ((match = headingRegex.exec(raw)) !== null) {
     const level = match[1].length;
     const text = match[2].trim();
-    // Generate ID similar to how rehype-slug does it
-    const id = text
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, "-")
-      .replace(/^-|-$/g, "");
+    // Use the same slugger that rehype-slug uses - guaranteed identical IDs
+    const id = slugger.slug(text);
 
     headings.push({
       level,

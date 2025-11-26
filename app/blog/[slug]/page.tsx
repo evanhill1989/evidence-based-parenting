@@ -68,7 +68,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
           items={[{ label: "Blog", href: "/blog" }, { label: post.title }]}
         />
 
-        <div className="mx-auto max-w-4xl">
+        <div className="mx-auto max-w-4xl ">
           {/* Header */}
           <header className="mb-12">
             {post.isSpecialty && (
