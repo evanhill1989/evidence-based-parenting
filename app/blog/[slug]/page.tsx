@@ -77,14 +77,14 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               </div>
             )}
 
-            <h1 className="mb-6 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+            <h1 className="mb-6 text-4xl font-bold tracking-tight text-gray-100 sm:text-5xl">
               {post.title}
             </h1>
 
-            <p className="mb-6 text-xl text-gray-600">{post.description}</p>
+            <p className="mb-6 text-xl text-gray-100">{post.description}</p>
 
             {/* Meta information */}
-            <div className="flex flex-wrap items-center gap-6 border-y border-gray-200 py-4 text-sm text-gray-600">
+            <div className="flex flex-wrap items-center gap-6 border-y border-gray-200 py-4 text-sm text-gray-100">
               <div className="flex items-center gap-2">
                 <User className="h-4 w-4" />
                 <span>{post.author}</span>
@@ -161,7 +161,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
             <h3 className="mb-2 text-lg font-semibold text-gray-900">
               About the Author
             </h3>
-            <p className="text-sm text-gray-600">
+            <p className="text-sm text-gray-100">
               {post.author} is a Pediatric Nurse Practitioner (MSN, CPNP-AC)
               with over 8 years of experience, specializing in developmental
               pediatrics and pediatric neurology. She is passionate about
