@@ -1,5 +1,6 @@
 # Seizure vs. Normal Baby Movements
-*Quick reference guide - 4 min read*
+
+_Quick reference guide - 4 min read_
 
 **Age range:** 0-12 months
 
@@ -31,22 +32,22 @@
 ### Signs MORE LIKELY Normal:
 
 □ **Movement stops when you touch or reposition baby**
-  Seizures typically don't stop with touch or movement
+Seizures typically don't stop with touch or movement
 
 □ **Baby remains awake and alert throughout**
-  Most seizures involve altered awareness
+Most seizures involve altered awareness
 
 □ **Movements are variable and not rhythmic**
-  Seizures usually have repetitive, rhythmic quality
+Seizures usually have repetitive, rhythmic quality
 
 □ **Only happens during sleep transitions**
-  Benign sleep myoclonus is common
+Benign sleep myoclonus is common
 
 □ **Baby can be consoled or distracted**
-  Seizure activity doesn't respond to soothing
+Seizure activity doesn't respond to soothing
 
 □ **No changes in breathing or color**
-  Seizures may affect breathing and cause color changes
+Seizures may affect breathing and cause color changes
 
 ### Signs MORE LIKELY Concerning:
 
@@ -83,6 +84,7 @@ However, seizures do occur in infants, and recognizing the difference matters. T
 ### Benign Sleep Myoclonus (Very Common)
 
 **What it looks like:**
+
 - Brief jerks or twitches during sleep
 - Often involves arms, legs, or whole body
 - Happens only when baby is asleep
@@ -99,6 +101,7 @@ However, seizures do occur in infants, and recognizing the difference matters. T
 ### Startle Reflex (Moro Reflex)
 
 **What it looks like:**
+
 - Sudden "startled" response with arms flinging out
 - Often triggered by loud noise, sudden movement, or feeling of falling
 - Brief, single event
@@ -115,6 +118,7 @@ However, seizures do occur in infants, and recognizing the difference matters. T
 ### Jitteriness or Tremors
 
 **What it looks like:**
+
 - Fine, rapid shaking movements
 - Often affects hands or chin
 - Occurs when baby is awake, especially when crying or cold
@@ -131,6 +135,7 @@ However, seizures do occur in infants, and recognizing the difference matters. T
 ### Shuddering Attacks
 
 **What it looks like:**
+
 - Rapid shivering or shuddering of head and upper body
 - Lasts just a few seconds
 - Baby remains fully alert and aware
@@ -147,6 +152,7 @@ However, seizures do occur in infants, and recognizing the difference matters. T
 ### Chin Quivering
 
 **What it looks like:**
+
 - Rapid trembling of the chin
 - Often when baby is crying or upset
 - Baby is otherwise normal
@@ -166,6 +172,7 @@ Seizures in infants can present in many ways. Here are the most common types:
 ### Focal Seizures (Partial Seizures)
 
 **What they look like:**
+
 - Rhythmic jerking of one arm or leg
 - Twitching on one side of face
 - Eyes deviating to one side
@@ -179,6 +186,7 @@ Seizures in infants can present in many ways. Here are the most common types:
 ### Generalized Tonic-Clonic Seizures
 
 **What they look like:**
+
 - Body stiffening (tonic phase)
 - Followed by rhythmic jerking of arms and legs (clonic phase)
 - Loss of consciousness
@@ -192,6 +200,7 @@ Seizures in infants can present in many ways. Here are the most common types:
 ### Infantile Spasms (Medical Emergency)
 
 **What they look like:**
+
 - Sudden stiffening and bending forward (like a "jack-knife")
 - Arms may fling out
 - Occur in clusters (multiple spasms in a row)
@@ -210,6 +219,7 @@ Seizures in infants can present in many ways. Here are the most common types:
 ### Subtle Seizures (Common in Newborns)
 
 **What they look like:**
+
 - Staring with eye deviation
 - Unusual tongue movements, chewing, lip smacking
 - Bicycling movements of legs
@@ -227,26 +237,32 @@ Seizures in infants can present in many ways. Here are the most common types:
 When trying to determine if a movement is a seizure, I look for:
 
 **1. Can you interrupt the movement?**
+
 - Normal movements: Usually stop with touch, repositioning, or waking
 - Seizures: Continue despite intervention
 
 **2. Is the movement rhythmic and repetitive?**
+
 - Normal movements: Variable, irregular
 - Seizures: Often rhythmic, same pattern repeating
 
 **3. What is baby's awareness level?**
+
 - Normal movements: Baby is alert or normally asleep
 - Seizures: Often altered awareness, staring, unresponsive
 
 **4. How long does it last?**
+
 - Normal movements: Usually seconds
 - Seizures: Can last seconds to minutes
 
 **5. What happens after?**
+
 - Normal movements: Baby is immediately normal
 - Seizures: May have prolonged sleepiness or confusion
 
 **6. Is there a pattern?**
+
 - Normal movements: Random occurrence
 - Seizures: May occur in clusters or at specific times
 
@@ -257,17 +273,20 @@ When trying to determine if a movement is a seizure, I look for:
 ### During the Episode:
 
 1. **Keep your baby safe**
+
    - Place on safe surface (not elevated)
    - Turn to side if possible
    - Don't restrain movements
    - Don't put anything in baby's mouth
 
 2. **Note the time**
+
    - Check when it starts
    - Time how long it lasts
    - Timing helps medical evaluation
 
 3. **Observe carefully**
+
    - What body parts are involved?
    - What type of movement (jerking, stiffening, etc.)?
    - Is baby responsive?
@@ -282,11 +301,13 @@ When trying to determine if a movement is a seizure, I look for:
 ### After the Episode:
 
 1. **Assess your baby**
+
    - Are they breathing normally?
    - Are they responsive?
    - Have they returned to baseline?
 
 2. **Seek appropriate care**
+
    - Call 911 if: Episode lasted >2-3 minutes, baby not breathing normally, baby won't wake up, this is a first suspected seizure
    - Call pediatrician urgently if: Brief episode that resolved, baby seems back to normal
    - Go to ER if: You're very concerned even if episode resolved
@@ -301,6 +322,7 @@ When trying to determine if a movement is a seizure, I look for:
 ## When to Seek Immediate Evaluation
 
 **Call 911 or go to ER immediately for:**
+
 - Any suspected seizure lasting more than 5 minutes
 - Multiple seizures without regaining consciousness between them
 - First suspected seizure (even if brief)
@@ -309,6 +331,7 @@ When trying to determine if a movement is a seizure, I look for:
 - Seizure with high fever in baby under 6 months
 
 **Call pediatrician same day for:**
+
 - Brief episode (under 1 minute) that could have been a seizure
 - Repeated episodes of concerning movements
 - Any episode you can't clearly identify as normal
@@ -329,6 +352,7 @@ Febrile seizures (seizures with fever) deserve brief mention:
 **What they look like:** Usually generalized tonic-clonic (stiffening, then rhythmic jerking)
 
 **What to do:**
+
 - Seek immediate medical attention for first febrile seizure
 - Call 911 if seizure lasts more than 5 minutes
 - Place baby in safe position, don't restrain
@@ -342,11 +366,13 @@ Febrile seizures (seizures with fever) deserve brief mention:
 ## Why Accurate Diagnosis Matters
 
 **If movements are normal:**
+
 - Reassurance for parents
 - Avoid unnecessary testing or medication
 - Understanding of normal infant development
 
 **If movements are seizures:**
+
 - Appropriate treatment to control seizures
 - Investigation of underlying cause
 - Monitoring for developmental impact
@@ -370,26 +396,29 @@ Febrile seizures (seizures with fever) deserve brief mention:
 ## Related Resources
 
 **For more detailed information:**
+
 - 📚 [Seizures in babies: What parents need to know](/blog/seizures-in-babies)
 - 📚 [Understanding developmental milestones](/blog/developmental-milestones-guide)
 - 📚 [Infant reflexes: What's normal and when they disappear](/blog/infant-reflexes)
 - 🎯 [Recognizing abnormal vs normal movements](/guides/safety/recognizing-abnormal-movements)
 
 **Quick Help on related topics:**
+
 - 🚨 [Fever in baby](/quick-help/fever)
 - 🚨 [Hypotonia (floppy baby) signs](/quick-help/hypotonia)
 - 🚨 [Repetitive movements in babies](/quick-help/repetitive-movements)
 
 **By Age:**
+
 - 📅 [Newborn (0-3 months)](/age/newborn)
 - 📅 [3-6 months](/age/3-months)
 - 📅 [6-9 months](/age/6-months)
 
 ---
 
-**Medical Review:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Medical Review:** Alisha Blevins, MSN, CPNP-AC, Pediatric Neurology NP
 **Last Updated:** [Date]
 
 ⚠️ **Emergency Disclaimer:** If you believe your child is experiencing a medical emergency or having a seizure, call 911 or go to your nearest emergency room immediately. Do not rely on internet information in emergency situations.
 
-*This information is for educational purposes only and does not replace medical advice from your child's healthcare provider.*
+_This information is for educational purposes only and does not replace medical advice from your child's healthcare provider._

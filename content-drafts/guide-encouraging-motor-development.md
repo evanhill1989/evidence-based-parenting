@@ -1,5 +1,6 @@
 # How to Encourage Motor Development in Your Baby
-*Evidence-based activities to support your baby's physical development*
+
+_Evidence-based activities to support your baby's physical development_
 
 **Age range:** 0-12 months
 **Time needed:** Activities integrated throughout the day
@@ -12,6 +13,7 @@
 As a pediatric neurology nurse practitioner, I spend significant time evaluating children's motor development. Parents often ask: "What can I do to help my baby develop?" The good news: Simple, everyday activities support motor development better than expensive equipment or programs.
 
 **Understanding motor development helps you:**
+
 - Support your baby's natural developmental progression
 - Recognize what's typical versus concerning
 - Provide age-appropriate challenges without pressure
@@ -55,6 +57,7 @@ Before diving into activities, understanding the progression helps you support d
 ### Cephalocaudal Development (Head to Toe)
 
 **Babies develop motor control from head to toe:**
+
 - Head control first
 - Then trunk and arms
 - Finally legs and feet
@@ -68,6 +71,7 @@ Before diving into activities, understanding the progression helps you support d
 ### Proximodistal Development (Center to Extremities)
 
 **Babies develop control from center outward:**
+
 - Trunk control before limb control
 - Shoulder control before finger control
 
@@ -82,20 +86,24 @@ Before diving into activities, understanding the progression helps you support d
 **Typical progression (with wide normal variation):**
 
 0-3 months:
+
 - Head control emerging
 - Beginning to push up during tummy time
 
 3-6 months:
+
 - Rolling
 - Sitting with support → sitting independently
 - Reaching and grasping
 
 6-9 months:
+
 - Sitting securely
 - Beginning mobility (crawling, scooting, rolling)
 - Pulling to stand (some babies)
 
 9-12 months:
+
 - Crawling (or alternative mobility)
 - Pulling to stand
 - Cruising
@@ -114,6 +122,7 @@ Before diving into activities, understanding the progression helps you support d
 **Why it matters:** Builds neck, shoulder, and core strength necessary for all future motor skills. Prevents flat head spots.
 
 **How to do it:**
+
 1. Place baby on firm surface (floor, not soft bed)
 2. Start with 3-5 minutes, several times per day
 3. Do when baby is alert and fed (not right after eating)
@@ -121,6 +130,7 @@ Before diving into activities, understanding the progression helps you support d
 5. Gradually increase duration as baby strengthens
 
 **Making it enjoyable:**
+
 - Do tummy time on your chest
 - Use baby-safe mirror
 - Place colorful toys just in view
@@ -128,6 +138,7 @@ Before diving into activities, understanding the progression helps you support d
 - Roll up towel under baby's chest for support if needed
 
 **Troubleshooting:**
+
 - **Baby hates it:** Start very short (1-2 minutes), do on your chest, make it social
 - **Baby just lies there:** Normal at first! Any time on tummy counts
 - **Baby cries immediately:** Try after nap, when well-fed, with engaging toys
@@ -141,6 +152,7 @@ Before diving into activities, understanding the progression helps you support d
 **Why it matters:** Helps baby experience different positions, strengthens legs, provides vestibular input
 
 **How to do it:**
+
 1. **Supported standing:** Hold baby upright with feet touching your lap, let them push against legs
 2. **"Superman":** Hold baby horizontally, face-down, supporting chest and hips—they'll lift head and extend arms/legs
 3. **Upright holding:** Carry baby upright (not always reclined) to strengthen neck
@@ -155,6 +167,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Why it matters:** Strengthens neck muscles, prevents positional preferences
 
 **How to do it:**
+
 1. During feeding, alternate which side baby feeds on (both breasts, or switch arms for bottle)
 2. When baby is awake, approach from different sides
 3. Place interesting objects on both left and right
@@ -171,6 +184,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Why it matters:** Builds core strength for independent sitting, provides new perspective on world
 
 **How to do it:**
+
 1. **Boppy or pillow support:** Place baby in sitting position with pillow support behind and sides
 2. **Tripod sitting:** Baby sits with hands on floor for support
 3. **Your lap:** Sit baby on your lap with minimal support
@@ -179,6 +193,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Important:** Baby should have good head control before working on sitting
 
 **Progression:**
+
 - Heavy support needed → minimal support → hands barely touching → independent
 
 ---
@@ -188,6 +203,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Why it matters:** First form of independent mobility, strengthens oblique muscles (core), integrates both sides of body
 
 **How to do it:**
+
 1. During play, position baby on back
 2. Hold toy to one side, encouraging baby to reach across body
 3. Gently encourage rolling by moving toy to motivate
@@ -195,6 +211,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 5. Do both directions equally
 
 **Progression:**
+
 - Most babies roll tummy to back first (easier)
 - Back to tummy comes later (harder, requires more strength)
 
@@ -207,6 +224,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Why it matters:** Hand-eye coordination, fine motor skills, later needed for self-feeding and play
 
 **How to do it:**
+
 1. Hold toys within baby's reach
 2. Encourage reaching with both hands
 3. Let baby practice grasping different textures and sizes
@@ -214,6 +232,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 5. Allow baby to bring objects to mouth (they're exploring!)
 
 **Best toys:**
+
 - Rattles
 - Soft blocks
 - Teething toys
@@ -229,6 +248,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Why it matters:** Babies can't learn to crawl from containers (swings, bouncers, walkers). They need floor time.
 
 **How to do it:**
+
 1. Create safe floor space
 2. Place baby on floor multiple times per day
 3. Scatter toys around to encourage movement
@@ -244,6 +264,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Why it matters:** Builds core strength, body awareness, problem-solving
 
 **How to do it:**
+
 1. Don't always place baby in position—let them figure it out
 2. If baby is sitting, place toy out of reach to encourage transitioning to tummy
 3. If baby is on tummy, encourage moving to sitting
@@ -256,12 +277,14 @@ Vestibular (balance) system input is crucial for motor development and body awar
 #### Activity 9: Crawling Encouragement (When Ready)
 
 **Why it matters:** Crawling (or alternative mobility like scooting) provides:
+
 - Cross-body coordination (right arm with left leg)
 - Core strengthening
 - Spatial awareness
 - Independence
 
 **How to do it:**
+
 1. Lots of floor time
 2. Place toys just out of reach
 3. Some babies like crawling alongside parent
@@ -269,6 +292,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 5. Different surfaces (carpet, hardwood, grass)
 
 **Important:** Some babies skip crawling—this is normal
+
 - May scoot on bottom
 - May roll everywhere
 - May go straight to standing
@@ -284,12 +308,14 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Why it matters:** Leg strengthening, balance, prepares for walking
 
 **How to do it:**
+
 1. Provide sturdy furniture at appropriate height (ottoman, coffee table)
 2. Place toys on furniture to motivate reaching up
 3. Don't pull baby to standing—let them figure it out
 4. Ensure furniture is stable (anchor bookshelves, remove unstable items)
 
 **When baby is standing:**
+
 - Knees may be bent at first—normal
 - May not know how to get back down—you can help
 - Will fall frequently—that's part of learning
@@ -303,6 +329,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Why it matters:** Balance practice, leg strengthening, confidence building
 
 **How to do it:**
+
 1. Arrange furniture at appropriate spacing
 2. Place toys along route to encourage cruising
 3. Let baby hold one hand for support if wanted
@@ -318,6 +345,7 @@ Vestibular (balance) system input is crucial for motor development and body awar
 **Why it matters:** Ultimate gross motor milestone of first year!
 
 **How to do it:**
+
 1. **Don't rush it:** Walking happens when ready (9-18 months is normal range)
 2. Hold baby's hands and walk together
 3. Push toys (walkers that baby pushes, not sits in)
@@ -335,23 +363,27 @@ Fine motor skills develop alongside gross motor skills.
 ### Age-Appropriate Fine Motor Activities
 
 **0-3 months:**
+
 - Provide objects to grasp
 - Encourage bringing hands to midline
 - Allow hand-to-mouth (it's learning!)
 
 **3-6 months:**
+
 - Different textures to explore
 - Toys that transfer hand-to-hand
 - Rattles and shakers
 - Reaching practice
 
 **6-9 months:**
+
 - Finger foods for self-feeding (once solids started)
 - Stacking toys
 - Simple containers to open/close
 - Board books to turn pages
 
 **9-12 months:**
+
 - Large crayons for scribbling
 - Stacking blocks
 - Shape sorters
@@ -366,6 +398,7 @@ Fine motor skills develop alongside gross motor skills.
 ### ❌ Don't Use Baby Walkers (Sit-In Type)
 
 **Why they're harmful:**
+
 - Delay walking by 2-3 weeks on average
 - Dangerous (falls down stairs, reach hazards)
 - Don't teach proper walking mechanics
@@ -379,11 +412,13 @@ Fine motor skills develop alongside gross motor skills.
 ### ❌ Don't Force or Push
 
 **Forcing baby into positions they can't get to independently:**
+
 - Sitting before baby can get to sitting
 - Standing before baby can pull to stand
 - Walking before baby can stand alone
 
 **Why it's a problem:**
+
 - Skips developmental steps
 - Can frustrate baby
 - Doesn't actually accelerate development
@@ -396,11 +431,13 @@ Fine motor skills develop alongside gross motor skills.
 ### ❌ Don't Restrict Movement
 
 **Common movement restrictions:**
+
 - Excessive container time (swings, bouncers, seats)
 - Always holding baby, never floor time
 - Play pens as constant location (some floor freedom needed)
 
 **Why movement is crucial:**
+
 - Babies learn through movement
 - Vestibular input essential for development
 - Exploration builds neural connections
@@ -412,6 +449,7 @@ Fine motor skills develop alongside gross motor skills.
 ### ❌ Don't Compare
 
 **Every baby is different:**
+
 - Milestones have wide age ranges
 - Some babies excel at motor, others at language
 - Family member comparisons aren't meaningful
@@ -426,26 +464,31 @@ Fine motor skills develop alongside gross motor skills.
 ### Red Flags by Age
 
 **By 4 months:**
+
 - Cannot hold head steady
 - No pushing up during tummy time
 - Very stiff or very floppy
 
 **By 6 months:**
+
 - Not rolling either direction
 - Cannot sit with support
 - Not reaching for objects
 
 **By 9 months:**
+
 - Cannot sit without support
 - Not bearing weight on legs when held
 - Not transferring objects hand to hand
 
 **By 12 months:**
+
 - No crawling or alternative mobility
 - Cannot pull to stand
 - Not using both sides of body
 
 **At any age:**
+
 - Loss of previously acquired skills
 - Significant asymmetry (using only one side)
 - Persistent very high or very low tone
@@ -460,21 +503,25 @@ Fine motor skills develop alongside gross motor skills.
 ### Helpful Equipment
 
 **Play mat/blanket:**
+
 - Defines safe floor space
 - Provides cushioning
 - Easy to clean
 
 **Activity gym:**
+
 - Encourages reaching
 - Visual stimulation
 - Fine for short periods
 
 **Baby-safe mirror:**
+
 - Motivates tummy time
 - Encourages head lifting
 - Provides social feedback
 
 **Push walker (push, not sit-in):**
+
 - Supports cruising and early walking
 - Must be sturdy and weighted
 - Supervised use only
@@ -484,16 +531,19 @@ Fine motor skills develop alongside gross motor skills.
 ### Unnecessary Equipment
 
 **Bumbo-style seats:**
+
 - Don't build core strength
 - Can promote poor posture
 - Floor sitting is better
 
 **Jumpers/Exersaucers:**
+
 - Fine for short periods (15 min)
 - Don't replace floor time
 - Don't teach walking
 
 **Baby walkers (sit-in):**
+
 - Dangerous and not recommended
 
 ---
@@ -505,6 +555,7 @@ Fine motor skills develop alongside gross motor skills.
 **What it is:** Unstructured time on floor with baby-safe toys
 
 **Why it matters:**
+
 - Baby-led exploration
 - Problem-solving
 - Motor practice
@@ -519,12 +570,14 @@ Fine motor skills develop alongside gross motor skills.
 **What it is:** Time outside in safe environment
 
 **Why it matters:**
+
 - Different sensory input (grass, breeze, sounds)
 - Natural light
 - More space for movement
 - Varied terrain challenges balance
 
 **How to do it:**
+
 - Blanket on grass for tummy time
 - Walking while carrying baby
 - Exploring nature (supervised)
@@ -537,12 +590,14 @@ Fine motor skills develop alongside gross motor skills.
 **What it is:** Face-to-face play, games, interaction
 
 **Why it matters:**
+
 - Social-motor connection (clapping, waving)
 - Motivation (reaching for you)
 - Joy in movement
 - Emotional regulation while developing
 
 **Examples:**
+
 - Peek-a-boo
 - Pat-a-cake
 - So Big
@@ -605,17 +660,20 @@ A: Brief struggle is good—it's how babies learn. But prolonged frustration isn
 ## Related Resources
 
 **Understanding development:**
+
 - 📚 [Understanding developmental milestones: A neurology NP's guide](/blog/developmental-milestones-guide)
 - 📚 [Baby's brain development: The remarkable first year](/blog/brain-development-first-year)
 - 📚 [Gross motor development: Complete first-year guide](/blog/gross-motor-development-guide)
 - 🎯 [Tracking developmental milestones](/guides/development/tracking-milestones)
 
 **Quick Help for concerns:**
+
 - 🚨 [Delayed milestones: When to worry](/quick-help/delayed-milestones)
 - 🚨 [Hypotonia (floppy baby) signs](/quick-help/hypotonia)
 - 🚨 [Not making eye contact](/quick-help/eye-contact)
 
 **By Age:**
+
 - 📅 [Newborn (0-3 months)](/age/newborn)
 - 📅 [3-6 months](/age/3-months)
 - 📅 [6-9 months](/age/6-months)
@@ -623,7 +681,7 @@ A: Brief struggle is good—it's how babies learn. But prolonged frustration isn
 
 ---
 
-**Written by:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Written by:** Alisha Blevins, MSN, CPNP-AC, Pediatric Neurology NP
 **Last Updated:** [Date]
 
-*This guide is for educational purposes and doesn't replace personalized medical advice from your child's healthcare provider. If you have concerns about your baby's motor development, consult your pediatrician or a pediatric physical therapist.*
+_This guide is for educational purposes and doesn't replace personalized medical advice from your child's healthcare provider. If you have concerns about your baby's motor development, consult your pediatrician or a pediatric physical therapist._

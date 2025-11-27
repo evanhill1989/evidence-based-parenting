@@ -1,5 +1,6 @@
 # Baby Won't Stop Crying (0-3 Months)
-*Quick reference guide - 3 min read*
+
+_Quick reference guide - 3 min read_
 
 **Age range:** 0-3 months (newborn period)
 
@@ -24,28 +25,28 @@
 Try these in order—sometimes it takes running through the list multiple times:
 
 □ **Hungry?**
-  Newborns eat every 1.5-3 hours. Offer breast or bottle even if recently fed
+Newborns eat every 1.5-3 hours. Offer breast or bottle even if recently fed
 
 □ **Diaper needs changing?**
-  Wet or soiled diaper can be uncomfortable
+Wet or soiled diaper can be uncomfortable
 
 □ **Needs burping?**
-  Try burping even if baby doesn't seem gassy
+Try burping even if baby doesn't seem gassy
 
 □ **Too hot or cold?**
-  Feel baby's chest/back (not hands/feet). Add or remove a layer
+Feel baby's chest/back (not hands/feet). Add or remove a layer
 
 □ **Needs comfort/closeness?**
-  Skin-to-skin, holding, rocking, gentle bouncing
+Skin-to-skin, holding, rocking, gentle bouncing
 
 □ **Overstimulated?**
-  Move to quiet, dimly lit space. Less stimulation, not more
+Move to quiet, dimly lit space. Less stimulation, not more
 
 □ **Tired?**
-  Overtired babies struggle to settle. Create calm environment for sleep
+Overtired babies struggle to settle. Create calm environment for sleep
 
 □ **Just needs to cry?**
-  Sometimes babies cry for no fixable reason. Holding them through it helps
+Sometimes babies cry for no fixable reason. Holding them through it helps
 
 ---
 
@@ -96,17 +97,20 @@ Understanding this is normal helps, even when it doesn't make the crying stop.
 - Even if it "hasn't been long enough," try feeding
 
 **Breastfed babies:**
+
 - May need to nurse more frequently than every 3 hours
 - Can't overfeed at the breast
 - During growth spurts, may nurse almost constantly
 
 **Formula-fed babies:**
+
 - Usually eat 2-3 ounces every 2-4 hours in first month
 - May need more during growth spurts
 
 ### 2. Discomfort
 
 **Check:**
+
 - **Diaper:** Even slightly wet can bother some babies
 - **Temperature:** Feel baby's chest/back (hands/feet are often cool even when baby is warm). One layer more than you're wearing is a good rule
 - **Clothing:** Tags, tight elastic, scratchy fabric, hair tourniquet (hair wrapped around finger or toe—check!)
@@ -115,12 +119,14 @@ Understanding this is normal helps, even when it doesn't make the crying stop.
 ### 3. Gas and Tummy Trouble
 
 **Signs of gas:**
+
 - Pulling legs up
 - Arching back
 - Passing gas
 - Tense abdomen
 
 **What helps:**
+
 - Burp frequently during and after feeds
 - Bicycle legs gently
 - Tummy massage (clockwise circles)
@@ -134,12 +140,14 @@ Understanding this is normal helps, even when it doesn't make the crying stop.
 **Overtiredness is real.** Newborns can only handle 45-60 minutes of awake time.
 
 **Overtired signs:**
+
 - Fussing/crying
 - Rubbing eyes
 - Jerky movements
 - Staring into space (gone past tired to overtired)
 
 **What helps:**
+
 - Calm, dark, quiet environment
 - Swaddling
 - White noise
@@ -151,12 +159,14 @@ Understanding this is normal helps, even when it doesn't make the crying stop.
 Newborns have limited capacity for stimulation. Too much can overwhelm their developing nervous system.
 
 **Signs of overstimulation:**
+
 - Turning away from faces
 - Fussing during play
 - Hiccups
 - Crying that worsens with more interaction
 
 **What helps:**
+
 - Move to quiet, dimly lit space
 - Reduce noise and activity
 - Calm holding without trying to engage
@@ -167,6 +177,7 @@ Newborns have limited capacity for stimulation. Too much can overwhelm their dev
 Some babies simply need more physical contact. This is not "spoiling"—it's meeting a biological need.
 
 **What helps:**
+
 - Skin-to-skin contact
 - Baby wearing
 - Rocking, bouncing, swaying
@@ -174,6 +185,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 - Pacifier (if breastfeeding is established)
 
 **The "5 S's" (Dr. Harvey Karp):**
+
 - **S**waddle
 - **S**ide/stomach position (while holding—never for sleep)
 - **S**hushing sounds
@@ -189,6 +201,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ### Illness
 
 **Concerning signs:**
+
 - Fever (100.4°F/38°C or higher)
 - Extreme lethargy or difficulty waking
 - Poor feeding
@@ -203,11 +216,13 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ### Reflux
 
 **Signs of reflux (common, often benign):**
+
 - Spitting up frequently (often normal)
 - Arching back during/after feeding
 - Obvious discomfort after eating
 
 **Signs of GERD (reflux causing problems):**
+
 - Poor weight gain
 - Refusal to eat
 - Choking or difficulty breathing
@@ -218,6 +233,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ### Milk Protein Sensitivity
 
 **Signs:**
+
 - Blood or mucus in stool
 - Excessive fussiness, especially after eating
 - Rash, eczema
@@ -228,6 +244,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ### Ear Infection
 
 **Less common in newborns, but possible:**
+
 - Pulling at ear
 - Fever
 - Inconsolable crying
@@ -238,6 +255,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ### Intussusception (Rare but Serious)
 
 **Signs:**
+
 - Sudden, severe crying (pulling knees to chest)
 - Vomiting
 - Bloody or "currant jelly" stool
@@ -248,6 +266,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ### Neurological Concerns
 
 **Very rare, but see doctor if:**
+
 - High-pitched, unusual cry
 - Extreme stiffness or floppiness
 - Seizure-like movements
@@ -261,6 +280,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ## Colic: When Crying is the Diagnosis
 
 **Colic definition (Rule of 3s):**
+
 - Crying more than 3 hours per day
 - More than 3 days per week
 - For more than 3 weeks
@@ -272,11 +292,13 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 **What colic is:** A description of a crying pattern, not a disease. Cause is unknown.
 
 **What doesn't cause colic:**
+
 - Bad parenting
 - Something you did wrong
 - Permanent problem
 
 **What might help (evidence is mixed):**
+
 - The 5 S's
 - Probiotics (ask pediatrician)
 - Reducing stimulation
@@ -304,6 +326,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 **Never shake a baby.** Shaking can cause permanent brain damage or death.
 
 **Get help:**
+
 - Call partner, family member, friend to take a turn
 - Call your pediatrician
 - Call postpartum support hotline: 1-800-944-4773
@@ -316,6 +339,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ## Survival Strategies
 
 **For the crying:**
+
 - Take it in shifts with partner/support person
 - Use white noise (for baby and to muffle crying for you)
 - Baby wear for hands-free soothing
@@ -323,6 +347,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 - Accept that sometimes nothing works
 
 **For you:**
+
 - Sleep when baby sleeps (really—chores can wait)
 - Accept help from others
 - Lower all non-essential standards
@@ -330,6 +355,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 - Talk to other parents (you're not alone)
 
 **What not to do:**
+
 - Don't compare your baby to others
 - Don't blame yourself
 - Don't try every piece of advice you receive (be selective)
@@ -340,12 +366,14 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ## When to Call the Doctor
 
 **Call immediately for:**
+
 - Fever 100.4°F/38°C or higher
 - Signs of serious illness (lethargy, difficulty breathing, blue color)
 - Suspected injury
 - You're concerned you might harm your baby
 
 **Call same day for:**
+
 - Crying pattern changes drastically
 - Accompanied by vomiting, diarrhea, or rash
 - Baby seems in pain
@@ -353,6 +381,7 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 - You're concerned something is wrong
 
 **Mention at next well visit:**
+
 - Excessive crying (colic pattern)
 - Reflux symptoms
 - Questions about normal crying amounts
@@ -378,26 +407,29 @@ Some babies simply need more physical contact. This is not "spoiling"—it's mee
 ## Related Resources
 
 **For more detailed information:**
+
 - 📚 [Why is my baby crying? Complete guide](/blog/why-baby-cries-complete-guide)
 - 📚 [Understanding baby sleep cycles](/blog/baby-sleep-cycles)
 - 📚 [Feeding schedules by age](/blog/feeding-schedules-by-age)
 - 📚 [Postpartum survival guide](/blog/postpartum-survival-guide)
 
 **Quick Help on related topics:**
+
 - 🚨 [Won't sleep through the night](/quick-help/wont-sleep)
 - 🚨 [Refusing bottle/breast](/quick-help/refusing-feeding)
 - 🚨 [Gas and colic relief](/quick-help/gas-colic)
 - 🚨 [Fever in baby](/quick-help/fever)
 
 **By Age:**
+
 - 📅 [Newborn (0-3 months)](/age/newborn)
 - 📅 [Baby's first month: What to expect](/blog/first-month-guide)
 
 ---
 
-**Medical Review:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Medical Review:** Alisha Blevins, MSN, CPNP-AC, Pediatric Neurology NP
 **Last Updated:** [Date]
 
 ⚠️ **Important:** If you believe your child is experiencing a medical emergency, call 911 immediately. If you're feeling overwhelmed and at risk of harming your baby, put baby in safe place and call for help: National Parent Helpline 1-855-427-2736 or Crisis Line 988.
 
-*This information is for educational purposes only and does not replace medical advice from your child's healthcare provider.*
+_This information is for educational purposes only and does not replace medical advice from your child's healthcare provider._

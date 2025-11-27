@@ -1,5 +1,6 @@
 # How to Track Developmental Milestones
-*A practical guide from a pediatric neurology NP*
+
+_A practical guide from a pediatric neurology NP_
 
 **Age range:** 0-24 months (applicable to all ages)
 **Time needed:** 10-15 minutes to set up, ongoing monitoring
@@ -26,15 +27,17 @@ This guide will teach you a simple, practical system for monitoring development 
 ## What You'll Need
 
 □ A tracking method (choose one):
-  - Smartphone app (CDC Milestone Tracker, Baby Connect, others)
-  - Simple notebook or journal
-  - Printable milestone chart
-  - Digital document or spreadsheet
+
+- Smartphone app (CDC Milestone Tracker, Baby Connect, others)
+- Simple notebook or journal
+- Printable milestone chart
+- Digital document or spreadsheet
 
 □ Access to reliable milestone references:
-  - CDC developmental milestones (updated 2022)
-  - Your pediatrician's milestone handouts
-  - This guide and related resources
+
+- CDC developmental milestones (updated 2022)
+- Your pediatrician's milestone handouts
+- This guide and related resources
 
 □ Your smartphone for photos/videos (optional but helpful)
 
@@ -53,6 +56,7 @@ Select a system you'll actually use consistently.
 **Option A: Smartphone App (Recommended for most parents)**
 
 **Pros:**
+
 - Always with you
 - Built-in milestone checklists
 - Easy to update in moments of spare time
@@ -60,11 +64,13 @@ Select a system you'll actually use consistently.
 - Generates summaries to share with pediatrician
 
 **Recommended apps:**
+
 - **CDC Milestone Tracker** (Free, evidence-based)
 - **Baby Connect** (Comprehensive, tracks everything)
 - **Huckleberry** (Focus on sleep but includes milestones)
 
 **How to use:**
+
 - Download and set up app
 - Enter baby's birthdate (automatically adjusts for prematurity if needed)
 - Review current age milestones
@@ -75,12 +81,14 @@ Select a system you'll actually use consistently.
 **Option B: Simple Notebook/Journal**
 
 **Pros:**
+
 - No screen time
 - Flexible format
 - Can include personal observations and memories
 - No privacy/data concerns
 
 **How to use:**
+
 - Dedicate one notebook to development tracking
 - Create a page for each month/age
 - List relevant milestones for that age
@@ -88,6 +96,7 @@ Select a system you'll actually use consistently.
 - Note dates and observations
 
 **Example format:**
+
 ```
 3 Months Old (Achieved [Date]):
 
@@ -110,12 +119,14 @@ Notes: Really started enjoying tummy time this month.
 **Option C: Printable Charts**
 
 **Pros:**
+
 - Visual reference
 - Can post on fridge/wall
 - Easy to share with pediatrician
 - No technology needed
 
 **How to use:**
+
 - Print age-appropriate milestone charts
 - Post somewhere accessible
 - Check off milestones as achieved
@@ -123,6 +134,7 @@ Notes: Really started enjoying tummy time this month.
 - File in folder to bring to well visits
 
 **Where to find:**
+
 - CDC milestone checklists (downloadable)
 - AAP milestone charts
 - Your pediatrician's office
@@ -132,12 +144,14 @@ Notes: Really started enjoying tummy time this month.
 **Option D: Digital Document/Spreadsheet**
 
 **Pros:**
+
 - Highly customizable
 - Can include detailed notes
 - Easy to search and review
 - Can share electronically
 
 **How to use:**
+
 - Create document with sections for each developmental domain
 - Update monthly
 - Include dates, notes, concerns
@@ -156,11 +170,13 @@ Notes: Really started enjoying tummy time this month.
 Track across all five areas—this helps you see the complete picture.
 
 #### Gross Motor Skills
+
 **Large muscle movements:** rolling, sitting, crawling, walking
 
 **Why it matters:** Reflects brain development, muscle tone, coordination
 
 **What to track:**
+
 - Head control and tummy time progress
 - Rolling (belly to back, back to belly)
 - Sitting (with support, independently)
@@ -170,11 +186,13 @@ Track across all five areas—this helps you see the complete picture.
 ---
 
 #### Fine Motor Skills
+
 **Small muscle control:** grasping, manipulating objects, self-feeding
 
 **Why it matters:** Reflects hand-eye coordination, dexterity, emerging independence
 
 **What to track:**
+
 - Hand-to-mouth coordination
 - Reaching and grasping
 - Transferring objects
@@ -185,11 +203,13 @@ Track across all five areas—this helps you see the complete picture.
 ---
 
 #### Speech and Language
+
 **Communication:** both understanding (receptive) and speaking (expressive)
 
 **Why it matters:** Language delays are among the most common developmental concerns
 
 **What to track:**
+
 - Cooing and babbling
 - Responding to sounds and name
 - Understanding of words/commands
@@ -202,11 +222,13 @@ Track across all five areas—this helps you see the complete picture.
 ---
 
 #### Social-Emotional Development
+
 **Social skills and emotional regulation:** bonding, social interaction, emotional expression
 
 **Why it matters:** Social-emotional development predicts later relationship skills and mental health
 
 **What to track:**
+
 - Social smiling
 - Eye contact and social engagement
 - Stranger anxiety and separation anxiety (normal developmental milestones!)
@@ -218,11 +240,13 @@ Track across all five areas—this helps you see the complete picture.
 ---
 
 #### Cognitive Development
+
 **Thinking and problem-solving:** learning, memory, cause-and-effect understanding
 
 **Why it matters:** Reflects learning and reasoning abilities
 
 **What to track:**
+
 - Attention and focus
 - Object permanence (understanding hidden objects still exist)
 - Cause and effect exploration
@@ -237,6 +261,7 @@ Track across all five areas—this helps you see the complete picture.
 **Use reliable, evidence-based sources:**
 
 **CDC Milestones (updated 2022):**
+
 - Based on what 75% of children can do at each age
 - More conservative than older guidelines
 - Ages: 2 months, 4 months, 6 months, 9 months, 12 months, 15 months, 18 months, 24 months
@@ -244,13 +269,16 @@ Track across all five areas—this helps you see the complete picture.
 **Access:** https://www.cdc.gov/ncbddd/actearly/milestones/index.html
 
 **AAP Bright Futures:**
+
 - Comprehensive developmental surveillance guidelines
 - Used by pediatricians
 
 **Your pediatrician's handouts:**
+
 - Often provide milestone summaries at each well visit
 
 **Important:** Understand that milestones are guidelines, not absolute deadlines. They represent:
+
 - What MOST children can do by that age
 - A range, not a single moment
 - Average development—individual variation is normal
@@ -262,24 +290,28 @@ Track across all five areas—this helps you see the complete picture.
 **The best developmental observation happens during daily life**, not during formal testing.
 
 **When to observe:**
+
 - During play
 - During routines (dressing, bathing, feeding)
 - During social interaction
 - Throughout the day in various contexts
 
 **What to notice:**
+
 - What your child does spontaneously (not just when prompted)
 - How they use emerging skills
 - Progress over time
 - Things that seem different or concerning
 
 **Don't:**
+
 - Constantly test your child
 - Turn every interaction into a milestone check
 - Show anxiety about tracking (babies pick up on stress)
 - Compare obsessively to other children
 
 **Do:**
+
 - Notice and celebrate new skills
 - Follow your child's interests
 - Create opportunities for skill practice without pressure
@@ -294,15 +326,18 @@ Track across all five areas—this helps you see the complete picture.
 **Spend 5-10 minutes reviewing:**
 
 1. **What new skills has my child shown this month?**
+
    - Check off achieved milestones
    - Date when first observed
    - Add notes about context
 
 2. **Is my child progressing in all developmental domains?**
+
    - Don't expect perfect progress across all areas
    - Look for steady forward movement
 
 3. **Are there any concerns?**
+
    - Skills not emerging
    - Regression (loss of skills)
    - Significant delays across multiple domains
@@ -312,6 +347,7 @@ Track across all five areas—this helps you see the complete picture.
    - Know what to look for
 
 **Example monthly check-in:**
+
 ```
 Month: 6 months old
 Date: March 1, 2025
@@ -339,18 +375,21 @@ Next month watch for:
 ### Step 6: Use Photos and Videos
 
 **Visual documentation is incredibly valuable**, especially for:
+
 - Capturing milestones you might forget
 - Showing pediatrician or specialist concerning patterns
 - Celebrating progress
 - Comparing to later development if questions arise
 
 **What to capture:**
+
 - First achievements (first steps, first words)
 - Typical play and interaction
 - Any movements or behaviors that concern you
 - Monthly "milestone videos" showing current skills
 
 **Tips:**
+
 - Short clips (10-30 seconds) are more useful than long videos
 - Capture different contexts (play, feeding, interaction)
 - Date and label videos for easy reference
@@ -365,6 +404,7 @@ Next month watch for:
 **Bring your tracking to well visits:**
 
 Your pediatrician conducts formal developmental screening at:
+
 - 9 months
 - 18 months
 - 24-30 months
@@ -374,12 +414,14 @@ Plus informal assessment at every well visit.
 **How to share your observations:**
 
 **"Here's what I've noticed..."**
+
 - Present objective observations
 - Share specific examples
 - Note dates of skill achievement
 - Mention any concerns
 
 **Be specific:**
+
 - ✓ "She rolled belly to back at 4 months but still hasn't rolled back to belly at 6 months"
 - ✗ "She seems behind in rolling"
 
@@ -387,10 +429,12 @@ Plus informal assessment at every well visit.
 - ✗ "His language seems delayed"
 
 **Share patterns, not isolated incidents:**
+
 - ✓ "She never makes eye contact with anyone, including me during feeding or play"
 - ✗ "She didn't look at me this one time"
 
 **Videos are valuable:**
+
 - "I captured a video of the movement I'm concerned about"
 - "Here's a video showing how he plays—I'm wondering if this is typical"
 
@@ -485,11 +529,13 @@ From my experience working with families:
 - **No eye contact or social engagement at any age**
 
 **Also seek evaluation if:**
+
 - Multiple delays across different domains
 - Significant delay beyond normal range
 - Persistent parental concern even if can't pinpoint exact issue
 
 **Where to seek evaluation:**
+
 - Your pediatrician (always first step)
 - Early Intervention (birth to 3) – can contact directly without referral
 - Developmental-behavioral pediatrician
@@ -529,6 +575,7 @@ A: Provide opportunities and encouragement, but don't drill or pressure. Most mi
 ## When to Celebrate vs. When to Be Concerned
 
 ### Celebrate:
+
 ✓ Any new skill, regardless of timing
 ✓ Steady progress, even if slow
 ✓ Effort and persistence
@@ -536,12 +583,14 @@ A: Provide opportunities and encouragement, but don't drill or pressure. Most mi
 ✓ Skills achieved through hard work (for children with delays)
 
 ### Mention to pediatrician:
+
 ⚠ Delays in one domain
 ⚠ Slower progress than expected
 ⚠ Questions about whether development is typical
 ⚠ Your persistent feeling something is different
 
 ### Seek prompt evaluation for:
+
 🚨 Multiple delays across domains
 🚨 Significant delays beyond normal range
 🚨 Loss of any skills (regression)
@@ -552,6 +601,7 @@ A: Provide opportunities and encouragement, but don't drill or pressure. Most mi
 ## Supporting Development While You Track
 
 **What actually supports development:**
+
 - Responsive caregiving (responding to baby's cues)
 - Language-rich environment (talking, reading, singing)
 - Safe opportunities for movement and exploration
@@ -560,6 +610,7 @@ A: Provide opportunities and encouragement, but don't drill or pressure. Most mi
 - Reduced screen time (AAP: none before 18 months except video chat)
 
 **What doesn't help:**
+
 - Expensive "educational" toys
 - Infant programs promising "brain development"
 - Flashcards or academic drilling
@@ -597,21 +648,25 @@ A: Provide opportunities and encouragement, but don't drill or pressure. Most mi
 ## Related Resources
 
 **For understanding milestones:**
+
 - 📚 [Understanding developmental milestones: A neurology NP's guide](/blog/developmental-milestones-guide)
 - 📚 [Baby's brain development: The remarkable first year](/blog/brain-development-first-year)
 - 📚 [Gross motor development: Complete first-year guide](/blog/gross-motor-development-guide)
 - 📚 [Speech and language development: What's normal, what's not](/blog/speech-language-development)
 
 **Quick Help for concerns:**
+
 - 🚨 [Delayed milestones: When to worry](/quick-help/delayed-milestones)
 - 🚨 [Not making eye contact](/quick-help/eye-contact)
 - 🚨 [Speech delay red flags](/quick-help/speech-delay)
 
 **Other helpful guides:**
+
 - 🎯 [Encouraging motor development](/guides/development/motor-development)
 - 🎯 [Supporting speech development](/guides/development/speech-development)
 
 **By Age:**
+
 - 📅 [Newborn (0-3 months)](/age/newborn)
 - 📅 [3-6 months](/age/3-months)
 - 📅 [6-9 months](/age/6-months)
@@ -622,32 +677,36 @@ A: Provide opportunities and encouragement, but don't drill or pressure. Most mi
 ## Tools and Resources
 
 **Milestone Tracking Apps:**
+
 - CDC Milestone Tracker (Free, iOS and Android)
 - Baby Connect (Comprehensive tracking)
 - Huckleberry (Sleep focus with milestone tracking)
 
 **Official Milestone Resources:**
+
 - CDC Learn the Signs, Act Early: https://www.cdc.gov/ncbddd/actearly/
 - CDC Milestone Checklists: https://www.cdc.gov/ncbddd/actearly/milestones/
 - AAP HealthyChildren: https://www.healthychildren.org/English/ages-stages/
 
 **Early Intervention:**
+
 - Find your state's program: https://www.cdc.gov/ncbddd/actearly/parents/states.html
 - Birth to 3 services (free in most states)
 
 **Developmental Screening Tools:**
+
 - Ages & Stages Questionnaires (ASQ)
 - Survey of Wellbeing of Young Children (SWYC)
 - Parents' Evaluation of Developmental Status (PEDS)
 
-*Your pediatrician uses these or similar tools at well visits*
+_Your pediatrician uses these or similar tools at well visits_
 
 ---
 
-**Written by:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Written by:** Alisha Blevins, MSN, CPNP-AC, Pediatric Neurology NP
 **Last Updated:** [Date]
 
-*This guide is for educational purposes and doesn't replace personalized medical advice from your child's healthcare provider. Always consult your pediatrician with specific questions about your child's development.*
+_This guide is for educational purposes and doesn't replace personalized medical advice from your child's healthcare provider. Always consult your pediatrician with specific questions about your child's development._
 
 ---
 
@@ -659,4 +718,4 @@ A: Provide opportunities and encouragement, but don't drill or pressure. Most mi
 
 ## Comments
 
-*[Future: Comment section where parents can share their tracking methods and experiences]*
+_[Future: Comment section where parents can share their tracking methods and experiences]_

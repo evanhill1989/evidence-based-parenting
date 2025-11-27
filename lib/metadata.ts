@@ -1,8 +1,9 @@
-import type { Metadata } from 'next'
+import type { Metadata } from "next";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://yoursite.com'
-const siteName = 'Evidence-Based Parenting'
-const siteDescription = 'Expert parenting guidance from a Pediatric Nurse Practitioner specializing in developmental and neurological care'
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://yoursite.com";
+const siteName = "Evidence-Based Parenting";
+const siteDescription =
+  "Expert parenting guidance from a Pediatric Nurse Practitioner specializing in developmental and neurological care";
 
 export const defaultMetadata: Metadata = {
   title: {
@@ -11,27 +12,27 @@ export const defaultMetadata: Metadata = {
   },
   description: siteDescription,
   keywords: [
-    'parenting',
-    'child development',
-    'pediatric neurology',
-    'infant care',
-    'toddler development',
-    'parenting tips',
-    'developmental milestones',
+    "parenting",
+    "child development",
+    "pediatric neurology",
+    "infant care",
+    "toddler development",
+    "parenting tips",
+    "developmental milestones",
   ],
-  authors: [{ name: 'Your Name, MSN, CPNP-AC' }],
-  creator: 'Your Name',
+  authors: [{ name: "Alisha Blevins, MSN, CPNP-AC" }],
+  creator: "Alisha Blevins",
   metadataBase: new URL(siteUrl),
   openGraph: {
-    type: 'website',
-    locale: 'en_US',
+    type: "website",
+    locale: "en_US",
     url: siteUrl,
     siteName,
     title: siteName,
     description: siteDescription,
     images: [
       {
-        url: '/og-image.jpg',
+        url: "/og-image.jpg",
         width: 1200,
         height: 630,
         alt: siteName,
@@ -39,11 +40,11 @@ export const defaultMetadata: Metadata = {
     ],
   },
   twitter: {
-    card: 'summary_large_image',
+    card: "summary_large_image",
     title: siteName,
     description: siteDescription,
-    images: ['/og-image.jpg'],
-    creator: '@yourhandle',
+    images: ["/og-image.jpg"],
+    creator: "@yourhandle",
   },
   robots: {
     index: true,
@@ -51,25 +52,25 @@ export const defaultMetadata: Metadata = {
     googleBot: {
       index: true,
       follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
     },
   },
   verification: {
-    google: 'your-google-verification-code',
+    google: "your-google-verification-code",
   },
-}
+};
 
 interface GenerateMetadataProps {
-  title: string
-  description: string
-  image?: string
-  publishedTime?: string
-  modifiedTime?: string
-  authors?: string[]
-  tags?: string[]
-  canonicalUrl?: string
+  title: string;
+  description: string;
+  image?: string;
+  publishedTime?: string;
+  modifiedTime?: string;
+  authors?: string[];
+  tags?: string[];
+  canonicalUrl?: string;
 }
 
 export function generateArticleMetadata({
@@ -82,8 +83,8 @@ export function generateArticleMetadata({
   tags = [],
   canonicalUrl,
 }: GenerateMetadataProps): Metadata {
-  const url = canonicalUrl ? `${siteUrl}${canonicalUrl}` : siteUrl
-  const imageUrl = image ? `${siteUrl}${image}` : `${siteUrl}/og-image.jpg`
+  const url = canonicalUrl ? `${siteUrl}${canonicalUrl}` : siteUrl;
+  const imageUrl = image ? `${siteUrl}${image}` : `${siteUrl}/og-image.jpg`;
 
   return {
     title,
@@ -96,8 +97,8 @@ export function generateArticleMetadata({
     keywords: tags,
     authors: authors.map((name) => ({ name })),
     openGraph: {
-      type: 'article',
-      locale: 'en_US',
+      type: "article",
+      locale: "en_US",
       url,
       siteName,
       title,
@@ -116,11 +117,11 @@ export function generateArticleMetadata({
       tags,
     },
     twitter: {
-      card: 'summary_large_image',
+      card: "summary_large_image",
       title,
       description,
       images: [imageUrl],
-      creator: '@yourhandle',
+      creator: "@yourhandle",
     },
-  }
+  };
 }
