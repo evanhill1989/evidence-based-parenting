@@ -1,16 +1,16 @@
-import Link from 'next/link'
-import { ArrowRight, Clock, BookOpen, Lightbulb, Heart } from 'lucide-react'
-import { getFeaturedContent, getSpecialtyContent } from '@/lib/content'
-import { formatDate } from '@/lib/utils'
+import Link from "next/link";
+import { ArrowRight, Clock, BookOpen, Lightbulb, Heart } from "lucide-react";
+import { getFeaturedContent, getSpecialtyContent } from "@/lib/content";
+import { formatDate } from "@/lib/utils";
 
 export default function HomePage() {
-  const featuredContent = getFeaturedContent(6)
-  const specialtyContent = getSpecialtyContent(3)
+  const featuredContent = getFeaturedContent(6);
+  const specialtyContent = getSpecialtyContent(3);
 
   return (
     <div className="flex flex-col">
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-primary-50 to-white py-20">
+      <section className="bg-linear-to-br from-primary-50 to-white py-20">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="mb-6 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
@@ -57,8 +57,8 @@ export default function HomePage() {
                 Quick Help
               </h3>
               <p className="mb-4 text-gray-600">
-                Fast answers when you need them. 2am crying baby? We&apos;ve got you
-                covered.
+                Fast answers when you need them. 2am crying baby? We&apos;ve got
+                you covered.
               </p>
               <span className="inline-flex items-center text-primary-600 group-hover:underline">
                 Get help now <ArrowRight className="ml-2 h-4 w-4" />
@@ -77,7 +77,8 @@ export default function HomePage() {
                 By Age
               </h3>
               <p className="mb-4 text-gray-600">
-                Learn what to expect at each stage of your child&apos;s development.
+                Learn what to expect at each stage of your child&apos;s
+                development.
               </p>
               <span className="inline-flex items-center text-primary-600 group-hover:underline">
                 Browse by age <ArrowRight className="ml-2 h-4 w-4" />
@@ -130,9 +131,9 @@ export default function HomePage() {
                   className="group rounded-lg border bg-white p-6 transition-shadow hover:shadow-md"
                 >
                   <div className="mb-2 text-sm font-medium text-primary-600">
-                    {content.contentType === 'blog' && 'Article'}
-                    {content.contentType === 'guide' && 'Guide'}
-                    {content.contentType === 'quick-help' && 'Quick Help'}
+                    {content.contentType === "blog" && "Article"}
+                    {content.contentType === "guide" && "Guide"}
+                    {content.contentType === "quick-help" && "Quick Help"}
                   </div>
                   <h3 className="mb-2 text-lg font-semibold text-gray-900 group-hover:text-primary-600">
                     {content.title}
@@ -140,7 +141,7 @@ export default function HomePage() {
                   <p className="mb-4 text-sm text-gray-600">
                     {content.description}
                   </p>
-                  {'readingTime' in content && content.readingTime && (
+                  {"readingTime" in content && content.readingTime && (
                     <div className="text-xs text-gray-500">
                       {content.readingTime.text}
                     </div>
@@ -170,7 +171,7 @@ export default function HomePage() {
                     <span className="text-xs font-medium uppercase tracking-wide text-gray-500">
                       {content.contentType}
                     </span>
-                    {'publishedAt' in content && (
+                    {"publishedAt" in content && (
                       <span className="text-xs text-gray-500">
                         {formatDate(content.publishedAt)}
                       </span>
@@ -180,7 +181,7 @@ export default function HomePage() {
                     {content.title}
                   </h3>
                   <p className="mb-4 text-gray-600">{content.description}</p>
-                  {'readingTime' in content && content.readingTime && (
+                  {"readingTime" in content && content.readingTime && (
                     <div className="text-sm text-gray-500">
                       {content.readingTime.text}
                     </div>
@@ -199,7 +200,8 @@ export default function HomePage() {
             Expert Guidance When You Need It
           </h2>
           <p className="mb-8 text-lg text-primary-100">
-            Browse our comprehensive library of evidence-based parenting resources
+            Browse our comprehensive library of evidence-based parenting
+            resources
           </p>
           <Link
             href="/blog"
@@ -210,5 +212,5 @@ export default function HomePage() {
         </div>
       </section>
     </div>
-  )
+  );
 }

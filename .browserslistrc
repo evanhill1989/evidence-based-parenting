@@ -1,0 +1,5 @@
+# Browsers that we support
+# This targets modern browsers with good ES2022 support
+# Removes unnecessary polyfills and reduces bundle size
+
+>0.2% and last 2 versions and not dead and supports es6-module
