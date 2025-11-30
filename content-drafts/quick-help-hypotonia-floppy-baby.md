@@ -1,5 +1,6 @@
 # Hypotonia (Floppy Baby) Signs
-*Quick reference guide - 4 min read*
+
+_Quick reference guide - 4 min read_
 
 **Age range:** 0-24 months (can present at any age)
 
@@ -23,22 +24,22 @@
 ## Quick Assessment Checklist
 
 □ **Does my baby feel unusually floppy when I pick them up?**
-  Compared to other babies or siblings, significantly more loose
+Compared to other babies or siblings, significantly more loose
 
 □ **Can my baby hold their head up (age-appropriate)?**
-  Persistent head lag beyond expected age is concerning
+Persistent head lag beyond expected age is concerning
 
 □ **Do my baby's arms and legs seem overly loose?**
-  Excessive range of motion in joints, floppy limbs
+Excessive range of motion in joints, floppy limbs
 
 □ **Can my baby bear weight on legs when held (if age-appropriate)?**
-  No resistance or weight-bearing when feet touch surface
+No resistance or weight-bearing when feet touch surface
 
 □ **Is my baby meeting motor milestones?**
-  Significant delays across motor development
+Significant delays across motor development
 
 □ **How is my baby's feeding?**
-  Poor suck, difficulty feeding, taking very long to eat
+Poor suck, difficulty feeding, taking very long to eat
 
 ---
 
@@ -49,6 +50,7 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 **Hypotonia means low muscle tone**—muscles are more relaxed than typical, resulting in less resistance to movement. This is different from muscle weakness (though they can occur together).
 
 **Here's what you need to know:**
+
 - Hypotonia is a sign, not a diagnosis—it indicates something affecting neuromuscular function
 - Causes range from benign to serious
 - Early identification allows for early intervention
@@ -56,6 +58,7 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 - Evaluation determines underlying cause and guides treatment
 
 **This guide helps you:**
+
 - Recognize signs of hypotonia
 - Understand what it is and isn't
 - Know when to seek evaluation
@@ -68,11 +71,13 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 ### The Basics
 
 **Muscle tone** is the amount of tension in muscles at rest. Normal muscle tone provides:
+
 - Resistance when moving limbs
 - Support for posture and movement
 - Foundation for motor control
 
 **Hypotonia (low muscle tone)** means:
+
 - Less resistance when moving limbs
 - Difficulty maintaining posture
 - "Floppy" feeling when handling baby
@@ -85,17 +90,20 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 ### What Hypotonia Looks Like
 
 **When you handle baby:**
+
 - Feels like baby is "slipping through your hands"
 - Little resistance in arms and legs
 - Feels heavier or harder to maneuver than expected
 - Head may flop back excessively
 
 **When baby is lying down:**
+
 - "Frog-leg" position (hips externally rotated, knees bent out)
 - Arms splayed out to sides
 - Looks very relaxed, almost melted into surface
 
 **During movement:**
+
 - Excessive head lag when pulled to sitting
 - Difficulty holding head up
 - Can't bear weight on legs
@@ -108,6 +116,7 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 ### Newborn (0-3 Months)
 
 **Concerning signs:**
+
 - Extreme floppiness when picked up
 - No resistance in arms/legs when moved
 - Cannot bring hands to midline
@@ -123,6 +132,7 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 ### 3-6 Months
 
 **Concerning signs:**
+
 - Cannot hold head steady by 4 months
 - Persistent head lag when pulled to sit
 - No pushing up during tummy time
@@ -136,6 +146,7 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 ### 6-12 Months
 
 **Concerning signs:**
+
 - Cannot sit without support by 9 months
 - Not attempting any mobility (rolling, scooting, crawling) by 10 months
 - Very loose joints
@@ -148,6 +159,7 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 ### 12-24 Months
 
 **Concerning signs:**
+
 - Not walking by 18 months
 - Frequent falling, difficulty with balance
 - W-sitting (sitting with knees bent, feet out to sides)—compensating for weak core
@@ -161,6 +173,7 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 ### Normal Newborn Characteristics
 
 **Newborns normally have:**
+
 - Some degree of floppiness
 - Limited head control initially
 - Loose, uncoordinated movements
@@ -173,12 +186,14 @@ As a pediatric neurology nurse practitioner, I evaluate babies with hypotonia re
 ### Relaxed vs. Hypotonic
 
 **A relaxed, calm baby:**
+
 - Has appropriate resistance when you move limbs
 - Makes age-appropriate motor progress
 - Can maintain age-appropriate postures
 - Has good feeding
 
 **A hypotonic baby:**
+
 - Has noticeably less resistance
 - Delayed motor milestones
 - Difficulty maintaining postures
@@ -195,6 +210,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 ### Central Hypotonia (Brain or Spinal Cord)
 
 **Causes:**
+
 - Genetic conditions (Down syndrome, Prader-Willi syndrome, others)
 - Brain malformations
 - Cerebral palsy
@@ -202,6 +218,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 - Chromosomal abnormalities
 
 **Pattern:**
+
 - Hypotonia throughout body
 - Often involves developmental delays beyond just motor
 - Deep tendon reflexes may be normal or increased
@@ -211,12 +228,14 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 ### Peripheral Hypotonia (Nerves or Muscles)
 
 **Causes:**
+
 - Spinal muscular atrophy (SMA)
 - Muscular dystrophies
 - Congenital myopathies
 - Peripheral nerve disorders
 
 **Pattern:**
+
 - May have muscle weakness along with low tone
 - Deep tendon reflexes often decreased or absent
 - Progressive in some conditions
@@ -228,6 +247,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 **What it is:** Low muscle tone without underlying serious condition
 
 **Characteristics:**
+
 - Present from birth
 - No specific diagnosis found despite workup
 - Baby makes developmental progress (though often delayed)
@@ -275,6 +295,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 ### History and Physical Exam
 
 **Questions doctor will ask:**
+
 - When did you first notice floppiness?
 - Has it changed over time?
 - Is baby meeting developmental milestones?
@@ -283,6 +304,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 - Feeding history
 
 **Physical exam will assess:**
+
 - Muscle tone throughout body
 - Deep tendon reflexes
 - Muscle strength
@@ -297,19 +319,23 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 **Depending on findings, may refer to:**
 
 **Pediatric neurologist:**
+
 - Specializes in nervous system disorders
 - Conducts detailed neurological exam
 - Orders and interprets specialized tests
 
 **Developmental pediatrician:**
+
 - Assesses overall development
 - Coordinates multidisciplinary care
 
 **Geneticist:**
+
 - If genetic condition suspected
 - Can order genetic testing
 
 **Physical or occupational therapist:**
+
 - Assesses functional impact
 - Provides therapy if needed
 
@@ -320,24 +346,29 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 **Possible tests (not all babies need all tests):**
 
 **Blood tests:**
+
 - Metabolic screening
 - Thyroid function
 - Genetic testing
 - Creatine kinase (muscle enzyme)
 
 **Imaging:**
+
 - MRI of brain or spine
 - Looks for structural abnormalities
 
 **Electromyography (EMG) and Nerve Conduction Studies:**
+
 - Assesses nerve and muscle function
 - Helps distinguish central vs. peripheral causes
 
 **Muscle biopsy:**
+
 - Rarely needed
 - If muscular disorder suspected
 
 **Genetic testing:**
+
 - Chromosomal microarray
 - Gene panel or whole exome sequencing
 - Specific gene tests if particular condition suspected
@@ -353,12 +384,14 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 ### Physical Therapy
 
 **Goals:**
+
 - Strengthen muscles
 - Improve motor skills
 - Achieve developmental milestones
 - Improve functional abilities
 
 **What it involves:**
+
 - Age-appropriate exercises and activities
 - Positioning strategies
 - Equipment recommendations
@@ -371,6 +404,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 ### Occupational Therapy
 
 **Goals:**
+
 - Fine motor skills
 - Self-care skills (feeding, dressing)
 - Sensory processing
@@ -381,6 +415,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 ### Speech Therapy
 
 **If feeding or speech affected:**
+
 - Feeding therapy for safe, efficient eating
 - Oral motor exercises
 - Speech development support
@@ -390,6 +425,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 ### Treating Underlying Condition
 
 **If specific cause identified:**
+
 - Some conditions have specific treatments (hypothyroidism → thyroid hormone)
 - Some have disease-modifying treatments (SMA → FDA-approved therapies)
 - Many require supportive care and therapy
@@ -399,6 +435,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 ### Supportive Equipment
 
 **May include:**
+
 - Special seating for support
 - Orthotics (braces) for stability
 - Adaptive feeding equipment
@@ -411,20 +448,24 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 **Highly variable depending on cause:**
 
 **Benign congenital hypotonia:**
+
 - Generally good prognosis
 - Baby makes progress with therapy
 - May have some persistent low tone but functional
 
 **Genetic or progressive conditions:**
+
 - Depends on specific diagnosis
 - Range from mild impact to significant disability
 - Early intervention improves outcomes even when condition is permanent
 
 **Metabolic or treatable conditions:**
+
 - May improve significantly with treatment
 - Early diagnosis critical
 
 **Overall:**
+
 - Early intervention helps maximize potential
 - Many children with hypotonia make significant gains
 - Therapy helps even when underlying condition can't be "cured"
@@ -488,6 +529,7 @@ Hypotonia has many possible causes. Determining the specific cause requires medi
 **Hypotonia often causes developmental delay,** but not all developmental delay is from hypotonia.
 
 A baby can have:
+
 - Motor delay with normal muscle tone
 - Hypotonia with otherwise normal development
 - Both together
@@ -497,11 +539,13 @@ A baby can have:
 ### Hypotonia vs. Just Being Calm/Relaxed
 
 **A calm baby:**
+
 - Has normal muscle tone when you move limbs
 - Meets motor milestones
 - Can maintain age-appropriate postures
 
 **A hypotonic baby:**
+
 - Noticeably low tone even when relaxed
 - Motor delays
 - Difficulty with posture and movement
@@ -533,6 +577,7 @@ A baby can have:
 ## Related Resources
 
 **For understanding development:**
+
 - 📚 [Understanding developmental milestones: A neurology NP's guide](/blog/developmental-milestones-guide)
 - 📚 [Baby's brain development: The remarkable first year](/blog/brain-development-first-year)
 - 📚 [Gross motor development: Complete first-year guide](/blog/gross-motor-development-guide)
@@ -540,36 +585,41 @@ A baby can have:
 - 🎯 [Encouraging motor development](/guides/development/motor-development)
 
 **Quick Help for concerns:**
+
 - 🚨 [Delayed milestones: When to worry](/quick-help/delayed-milestones)
 - 🚨 [Seizure vs. normal baby movements](/quick-help/seizure-vs-normal-movements)
 - 🚨 [Not making eye contact](/quick-help/eye-contact)
 
 **By Age:**
+
 - 📅 [Newborn (0-3 months)](/age/newborn)
 - 📅 [3-6 months](/age/3-months)
 - 📅 [6-9 months](/age/6-months)
 
 ---
 
-**Medical Review:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Medical Review:** Alisha Blevins, MSN, CPNP-AC, Pediatric Neurology NP
 **Last Updated:** [Date]
 
-*This information is for educational purposes only and does not replace medical advice from your child's healthcare provider. If you suspect your baby has hypotonia or low muscle tone, contact your pediatrician for evaluation.*
+_This information is for educational purposes only and does not replace medical advice from your child's healthcare provider. If you suspect your baby has hypotonia or low muscle tone, contact your pediatrician for evaluation._
 
 ---
 
 ## Resources for Families
 
 **Organizations:**
+
 - Benign Congenital Hypotonia Support: https://benigncongentitalhypotonia.org
 - Muscular Dystrophy Association: https://www.mda.org
 - United Cerebral Palsy: https://ucp.org
 
 **Early Intervention:**
+
 - Find your state's program: https://www.cdc.gov/ncbddd/actearly/parents/states.html
 - Birth to 3 services (often free)
 
 **Support:**
+
 - Connect with other families through condition-specific organizations
 - Ask your neurology team about local support groups
 - Online communities for parents of children with hypotonia

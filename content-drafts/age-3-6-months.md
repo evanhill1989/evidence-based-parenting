@@ -1,5 +1,6 @@
 # Your Baby: 3-6 Months
-*Complete guide to months 3-6 from a pediatric neurology NP*
+
+_Complete guide to months 3-6 from a pediatric neurology NP_
 
 **Age range:** 3-6 months
 
@@ -12,6 +13,7 @@ Welcome to what many parents call the "golden age" of infancy! Between 3 and 6 m
 As a pediatric neurology nurse practitioner, I find this developmental period fascinating. Your baby's brain is forming connections at an incredible rate, motor skills are emerging rapidly, and social development takes off. This is also when parents often relax a bit—baby is more predictable, sleep may improve, and you're finding your groove.
 
 **What you'll find here:**
+
 - Month-by-month developmental milestones
 - Feeding changes (including introducing solids around 6 months)
 - Sleep evolution
@@ -37,6 +39,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ---
 
 <a name="month-4"></a>
+
 ## Month 4: Reaching and Playing (12-16 Weeks)
 
 ### What's Happening This Month
@@ -46,6 +49,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **Brain development:** Visual-motor pathways strengthening. Cerebellum (coordination center) maturing. Your baby's brain is learning to coordinate vision, reach, and grasp.
 
 **Physical changes:**
+
 - Gaining about 1-1.5 pounds
 - Growing about 0.5-1 inch
 - Head control is solid
@@ -54,6 +58,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Developmental Milestones: Month 4
 
 **Gross Motor:**
+
 - **Holds head steady** when upright (major achievement!)
 - Pushes up on elbows during tummy time
 - May roll from tummy to back
@@ -61,6 +66,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Sits with support
 
 **Fine Motor:**
+
 - **Reaches for and grasps objects** (hand-eye coordination!)
 - Brings hands together at midline
 - Brings objects to mouth
@@ -68,12 +74,14 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Plays with hands
 
 **Vision:**
+
 - Tracks moving objects smoothly
 - Recognizes faces and objects across a room
 - Depth perception improving (can judge distances)
 - Prefers colorful, complex objects
 
 **Hearing & Communication:**
+
 - Coos and babbles frequently
 - Responds to sounds by turning head
 - Begins to imitate sounds
@@ -81,6 +89,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Laughs out loud
 
 **Social:**
+
 - Smiles spontaneously and frequently
 - Enjoys social play
 - May begin to show preferences for certain people
@@ -97,16 +106,19 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### The 4-Month Sleep Regression
 
 **Many parents experience this:**
+
 - Baby who slept well suddenly wakes frequently
 - Harder to settle for naps and bedtime
 - More night wakings
 
 **Why it happens:**
+
 - Brain maturation changes sleep architecture
 - Awareness increases (FOMO—fear of missing out!)
 - Learning new skills (rolling, reaching) practiced at night
 
 **What helps:**
+
 - Consistent bedtime routine
 - Age-appropriate awake times
 - Safe sleep environment
@@ -115,6 +127,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ---
 
 <a name="month-5"></a>
+
 ## Month 5: Strengthening and Exploring (16-20 Weeks)
 
 ### What's Happening This Month
@@ -124,6 +137,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **Brain development:** Parietal lobe (spatial awareness) activating. Baby beginning to understand object permanence (things exist even when hidden). Memory improving.
 
 **Physical changes:**
+
 - Gaining about 1-1.5 pounds
 - Growing about 0.5 inch
 - Increased strength and coordination
@@ -132,6 +146,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Developmental Milestones: Month 5
 
 **Gross Motor:**
+
 - **Rolls both directions** (tummy to back, back to tummy)
 - Sits with minimal support
 - Bears weight on legs when held standing
@@ -139,6 +154,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - May scoot backward during tummy time
 
 **Fine Motor:**
+
 - **Transfers objects from hand to hand**
 - Reaches with one hand (not just two-handed reaching)
 - Raking grasp (pulls small objects toward self)
@@ -146,12 +162,14 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Increasing hand control and precision
 
 **Vision & Perception:**
+
 - Sees full range of colors
 - Can see across room clearly
 - Beginning to understand depth (reaching accurately)
 - Recognizes familiar objects and people
 
 **Hearing & Communication:**
+
 - **Responds to own name** (beginning)
 - Babbles with varied sounds ("ba-ba," "ma-ma"—not yet meaningful)
 - Turns toward sounds reliably
@@ -159,6 +177,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Blows raspberries (spitting, blowing)
 
 **Social & Cognitive:**
+
 - Shows clear preferences for favorite people and toys
 - May show stranger awareness (wariness of unfamiliar people)
 - Enjoys looking at self in mirror
@@ -175,6 +194,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ---
 
 <a name="month-6"></a>
+
 ## Month 6: Sitting and Social (20-24 Weeks)
 
 ### What's Happening This Month
@@ -184,6 +204,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **Brain development:** Language comprehension improving (understands more than can say). Frontal lobe development supporting intentional actions. Memory strengthening significantly.
 
 **Physical changes:**
+
 - Gaining about 1 pound
 - Growing about 0.5 inch
 - Stronger core and neck muscles
@@ -192,6 +213,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Developmental Milestones: Month 6
 
 **Gross Motor:**
+
 - **Sits without support** (some babies earlier, some later—both normal)
 - Rolls both directions easily
 - Supports full weight on legs when held
@@ -199,6 +221,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Tripod sitting (sits with hands on floor for support)
 
 **Fine Motor:**
+
 - Transfers objects hand to hand smoothly
 - Beginning raking grasp with fingers
 - Bangs objects
@@ -206,6 +229,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - May begin to use thumb and fingers separately
 
 **Communication:**
+
 - **Responds to name consistently**
 - Babbles chains of sounds
 - Begins to understand "no" (may not obey, but understands tone)
@@ -214,6 +238,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Different sounds for different emotions
 
 **Social-Emotional:**
+
 - Recognizes familiar faces
 - **Stranger anxiety may emerge** (normal developmental milestone!)
 - Enjoys social games (peek-a-boo, pat-a-cake)
@@ -221,6 +246,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Prefers primary caregivers
 
 **Cognitive:**
+
 - Beginning object permanence (knows hidden objects exist)
 - Explores cause and effect (shake rattle, it makes noise)
 - Shows preferences for toys
@@ -236,22 +262,26 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ---
 
 <a name="feeding"></a>
+
 ## Feeding Your Baby (3-6 Months)
 
 ### Breastfeeding & Formula Feeding (3-6 Months)
 
 **Frequency:**
+
 - **Month 4:** Every 3-4 hours (6-7 feedings per day)
 - **Month 5:** Every 3-4 hours (5-7 feedings per day)
 - **Month 6:** Every 4-5 hours (5-6 feedings per day)
 
 **Breastfeeding:**
+
 - More efficient nursing (faster feedings)
 - May be distracted during feeding (so much to see!)
 - Growth spurts around 4 months, 6 months
 - Continued cluster feeding normal
 
 **Formula Feeding:**
+
 - **Month 4:** 4-6 ounces per feeding
 - **Month 5:** 6-7 ounces per feeding
 - **Month 6:** 6-8 ounces per feeding
@@ -262,6 +292,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **AAP and WHO recommend:** Starting solids around 6 months (not before 4 months)
 
 **Signs of readiness:**
+
 - Can sit with support
 - Good head control
 - Shows interest in food (watches you eat, reaches for food)
@@ -269,12 +300,14 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Can move food from spoon to back of mouth
 
 **First foods:**
+
 - Iron-fortified infant cereal
 - Pureed vegetables
 - Pureed fruits
 - Pureed meats (good iron source)
 
 **How to start:**
+
 - Once per day initially
 - 1-2 tablespoons
 - Introduce one food at a time (wait 3-5 days before new food)
@@ -282,12 +315,14 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Breast milk or formula still primary nutrition
 
 **What to avoid before 1 year:**
+
 - Honey (botulism risk)
 - Cow's milk as main drink
 - Choking hazards (whole grapes, popcorn, etc.)
 - Added salt or sugar
 
 **Baby-led weaning vs. purees:**
+
 - Both approaches can work
 - Can combine methods
 - Discuss with pediatrician
@@ -303,6 +338,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ---
 
 <a name="sleep"></a>
+
 ## Sleep Patterns (3-6 Months)
 
 ### What's Typical
@@ -310,16 +346,19 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **Total sleep:** 14-16 hours per day
 
 **Night sleep:**
+
 - 10-12 hours (with wakings for feeding)
 - Some babies sleep 6-8 hour stretches
 - Some still wake every 3-4 hours (wide variation is normal)
 
 **Naps:**
+
 - 3-4 naps per day
 - Transitioning toward more predictable nap schedule
 - Total daytime sleep: 4-5 hours
 
 **Awake windows:**
+
 - Month 4: 1.5-2 hours
 - Month 5: 2-2.5 hours
 - Month 6: 2-3 hours
@@ -327,11 +366,13 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Sleep Development This Period
 
 **Brain maturation affects sleep:**
+
 - Sleep cycles lengthening and maturing
 - Distinction between day and night improving
 - Circadian rhythm developing
 
 **New skills affect sleep:**
+
 - Rolling, reaching, sitting practiced in crib
 - Increased awareness (harder to "shut off")
 - 4-month sleep regression common
@@ -339,18 +380,21 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Creating Healthy Sleep Habits
 
 **Bedtime routine (critical):**
+
 - Consistent timing
 - Calming activities (bath, book, song)
 - 20-30 minutes total
 - Same sequence every night
 
 **Sleep environment:**
+
 - Dark room
 - Cool temperature (68-72°F)
 - White noise (optional but helpful)
 - Safe sleep surface (see below)
 
 **Safe sleep remains critical:**
+
 - Back to sleep, always
 - Firm surface, no blankets, pillows, bumpers
 - Room-sharing (same room, different surface)
@@ -359,12 +403,14 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Sleep Training Considerations
 
 **Some families begin sleep training around 4-6 months:**
+
 - Discuss with pediatrician
 - Many methods available
 - Consider baby's temperament and family needs
 - No one "right" method
 
 **Not required:**
+
 - Many babies learn to sleep without formal training
 - Family choice
 - Cultural variations
@@ -379,22 +425,26 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ---
 
 <a name="development"></a>
+
 ## Development & Milestones Overview (3-6 Months)
 
 ### Gross Motor Development
 
 **What you should see:**
+
 - Month 4: Solid head control, pushing up on elbows
 - Month 5: Rolling both directions, sitting with support
 - Month 6: Sitting independently (or very close), bearing weight on legs
 
 **How to support:**
+
 - Tummy time daily (baby getting stronger makes this easier)
 - Encourage reaching and rolling
 - Supported sitting practice
 - Standing on your lap (with support)
 
 **Red flags:**
+
 - No head control by 4 months
 - Cannot bear any weight on legs by 6 months
 - Not rolling at all by 6 months
@@ -404,17 +454,20 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Fine Motor Development
 
 **What you should see:**
+
 - Month 4: Reaching and grasping
 - Month 5: Transferring hand to hand
 - Month 6: Raking grasp, exploring objects
 
 **How to support:**
+
 - Provide interesting objects to reach for
 - Toys with different textures
 - Safe objects for mouthing (they're exploring!)
 - Encourage hand play
 
 **Red flags:**
+
 - No reaching by 5 months
 - Hands always fisted at 4+ months
 - No interest in objects by 6 months
@@ -423,11 +476,13 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Communication Development
 
 **What you should see:**
+
 - Month 4: Cooing, laughing, varied sounds
 - Month 5: Beginning babbling, responds to sounds
 - Month 6: Babbling chains, responds to name
 
 **How to support:**
+
 - Talk constantly to baby
 - Respond to vocalizations
 - Read books
@@ -435,6 +490,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Narrate your day
 
 **Red flags:**
+
 - No cooing or vocal sounds by 4 months
 - Doesn't respond to sounds by 5 months
 - No babbling by 6 months
@@ -444,17 +500,20 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Social-Emotional Development
 
 **What you should see:**
+
 - Month 4: Spontaneous smiling, enjoying interaction
 - Month 5: Preference for familiar people
 - Month 6: Stranger awareness, clear attachment
 
 **How to support:**
+
 - Face-to-face interaction
 - Respond to social bids
 - Play social games
 - Provide security and comfort
 
 **Red flags:**
+
 - No social smile by 4 months
 - Little eye contact
 - No interest in faces or people
@@ -464,6 +523,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ---
 
 <a name="concerns"></a>
+
 ## Common Concerns (3-6 Months)
 
 ### Teething
@@ -471,12 +531,14 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **May begin anytime from 4-12 months (or later)**
 
 **Signs:**
+
 - Drooling
 - Chewing on everything
 - Fussiness
 - Mild gum discomfort
 
 **What helps:**
+
 - Cold teething toys
 - Gentle gum massage
 - Teething rings
@@ -489,16 +551,19 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **Beginning around 5-6 months is NORMAL and HEALTHY**
 
 **What it looks like:**
+
 - Cries when held by unfamiliar people
 - Upset when parent leaves room
 - Clings to primary caregiver
 
 **What it means:**
+
 - Attachment is forming (good thing!)
 - Cognitive development (understands when you're gone)
 - Object permanence emerging
 
 **How to help:**
+
 - Don't force interaction with strangers
 - Gradual warm-up time
 - Consistent caregivers
@@ -509,6 +574,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **Common around 4 months (sleep regression)**
 
 **Causes:**
+
 - Brain maturation
 - Learning new skills
 - Teething
@@ -516,6 +582,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Increased awareness
 
 **What helps:**
+
 - Consistent bedtime routine
 - Age-appropriate awake times
 - Responsive but not creating new sleep dependencies
@@ -526,6 +593,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **Some breastfed babies refuse bottles around 4-5 months**
 
 **Strategies:**
+
 - Try different bottles/nipples
 - Have someone other than mom offer
 - Try when baby slightly hungry (not starving)
@@ -536,6 +604,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 **Very common initially**
 
 **What helps:**
+
 - Keep trying (may take 10-15 exposures)
 - No pressure
 - Make it fun
@@ -545,6 +614,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ---
 
 <a name="when-to-call"></a>
+
 ## When to Call the Doctor (3-6 Months)
 
 ### Call 911 or Go to ER Immediately:
@@ -589,35 +659,41 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ---
 
 <a name="support"></a>
+
 ## Supporting Development (3-6 Months)
 
 ### What Actually Matters
 
 **Responsive interaction:**
+
 - Respond to baby's cues
 - Follow their lead in play
 - Provide comfort when needed
 - Celebrate new skills
 
 **Language exposure:**
+
 - Talk throughout the day
 - Read books daily
 - Sing songs
 - Respond to babbles
 
 **Movement opportunities:**
+
 - Tummy time when awake
 - Floor time for rolling practice
 - Supported sitting
 - Allow free movement
 
 **Social engagement:**
+
 - Face-to-face play
 - Games (peek-a-boo)
 - Mirror play
 - Varied expressions and tones
 
 **Safe exploration:**
+
 - Baby-safe toys with different textures
 - Mouthing is learning (provide safe objects)
 - Change of scenery (different rooms, outdoors)
@@ -626,30 +702,35 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### Activities for 3-6 Months
 
 **Tummy time play:**
+
 - Place toys just out of reach
 - Get down at baby's level
 - Use mirror
 - Tummy time on your chest
 
 **Reaching and grasping:**
+
 - Hold toys for baby to reach
 - Hang toys from play gym
 - Crinkly toys, rattles
 - Different textures
 
 **Social games:**
+
 - Peek-a-boo
 - This Little Piggy
 - Pat-a-cake
 - Tickle games
 
 **Pre-reading:**
+
 - Board books with simple pictures
 - Point to images
 - Vary your tone
 - Let baby mouth books (they're exploring!)
 
 **Sensory exploration:**
+
 - Different textures (soft blanket, crinkly paper)
 - Safe household objects
 - Nature (grass, leaves—supervised)
@@ -672,12 +753,14 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### 4-Month Visit
 
 **What happens:**
+
 - Growth measurements
 - Developmental screening
 - Physical exam
 - **Vaccines** (second round of infant vaccines)
 
 **Topics to discuss:**
+
 - Sleep patterns
 - Feeding
 - Development
@@ -685,6 +768,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Solid food introduction (upcoming)
 
 **Questions to ask:**
+
 - When should I start solids?
 - How can I support development?
 - Sleep questions
@@ -693,12 +777,14 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ### 6-Month Visit
 
 **What happens:**
+
 - Growth measurements
 - **Formal developmental screening**
 - Physical exam
 - **Vaccines** (third round of infant vaccines)
 
 **Topics to discuss:**
+
 - Solid food introduction
 - Sleep
 - Development progress
@@ -706,6 +792,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 - Dental care (if teeth present)
 
 **Questions to ask:**
+
 - Is development on track?
 - Solid food progression
 - Sleep training (if interested)
@@ -717,6 +804,7 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ## Looking Ahead: 6-9 Months
 
 **Coming up next:**
+
 - Sitting independently becomes easy
 - Crawling preparation and emergence
 - More advanced babbling
@@ -752,30 +840,34 @@ As a pediatric neurology nurse practitioner, I find this developmental period fa
 ## Related Resources
 
 **Quick Help for Common Concerns:**
+
 - 🚨 [Delayed milestones: When to worry](/quick-help/delayed-milestones)
 - 🚨 [Fever in baby](/quick-help/fever)
 - 🚨 [Not making eye contact](/quick-help/eye-contact)
 - 🚨 [Baby won't stop crying](/quick-help/baby-crying-0-3mo)
 
 **How-To Guides:**
+
 - 🎯 [Tracking developmental milestones](/guides/development/tracking-milestones)
 - 🎯 [Encouraging motor development](/guides/development/motor-development)
 - 🎯 [Introducing solid foods](/guides/feeding/introducing-solids)
 - 🎯 [Creating bedtime routine](/guides/sleep/bedtime-routine)
 
 **In-Depth Reading:**
+
 - 📚 [Understanding developmental milestones: A neurology NP's guide](/blog/developmental-milestones-guide)
 - 📚 [Baby's brain development: The remarkable first year](/blog/brain-development-first-year)
 - 📚 [Gross motor development: Complete first-year guide](/blog/gross-motor-development)
 
 **Other Ages:**
+
 - 📅 [Newborn (0-3 months)](/age/newborn)
 - 📅 [6-9 months](/age/6-months)
 - 📅 [9-12 months](/age/9-months)
 
 ---
 
-**Medical Review:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Medical Review:** Alisha Blevins, MSN, CPNP-AC, Pediatric Neurology NP
 **Last Updated:** [Date]
 
-*This guide is for educational purposes and doesn't replace personalized medical advice from your child's healthcare provider. Always consult your pediatrician with specific questions about your baby's health and development.*
+_This guide is for educational purposes and doesn't replace personalized medical advice from your child's healthcare provider. Always consult your pediatrician with specific questions about your baby's health and development._

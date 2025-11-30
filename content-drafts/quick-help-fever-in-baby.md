@@ -1,5 +1,6 @@
 # Fever in Baby
-*Quick reference guide - 4 min read*
+
+_Quick reference guide - 4 min read_
 
 **Age range:** 0-24 months
 
@@ -8,6 +9,7 @@
 ## 🚨 Call Doctor IMMEDIATELY or Go to ER If:
 
 **For babies under 3 months (0-12 weeks):**
+
 - **ANY fever 100.4°F (38°C) or higher** - This is ALWAYS urgent in young babies
 - Baby is limp, unresponsive, or extremely weak
 - Difficulty breathing
@@ -16,6 +18,7 @@
 - Seizure
 
 **For babies 3-24 months:**
+
 - Fever 104°F (40°C) or higher
 - Fever with stiff neck or severe headache
 - Difficulty breathing
@@ -32,25 +35,25 @@
 ## Quick Assessment Checklist
 
 □ **How old is my baby?**
-  Age changes everything about fever urgency
+Age changes everything about fever urgency
 
 □ **What is the temperature?**
-  Rectal temperature is most accurate for babies
+Rectal temperature is most accurate for babies
 
 □ **How long has baby had fever?**
-  Duration matters for determining cause
+Duration matters for determining cause
 
 □ **Any other symptoms?**
-  Rash, cough, vomiting, diarrhea, difficulty breathing, ear pulling?
+Rash, cough, vomiting, diarrhea, difficulty breathing, ear pulling?
 
 □ **How is baby acting?**
-  Playful when fever down vs. lethargic all the time—very different
+Playful when fever down vs. lethargic all the time—very different
 
 □ **Is baby drinking fluids?**
-  Hydration is critical
+Hydration is critical
 
 □ **Recent vaccines?**
-  Low fever 24-48 hours after vaccines can be normal
+Low fever 24-48 hours after vaccines can be normal
 
 ---
 
@@ -59,6 +62,7 @@
 As a pediatric nurse practitioner, I need you to understand this critical fact: **Fever itself isn't dangerous. Fever is a symptom telling us the body is fighting something.**
 
 However, in very young babies (under 3 months), fever is always taken seriously because:
+
 - Their immune systems are immature
 - Serious infections can progress rapidly
 - They can't show us specific symptoms
@@ -67,6 +71,7 @@ However, in very young babies (under 3 months), fever is always taken seriously 
 For older babies, fever is usually from a minor viral illness, but certain patterns or symptoms require medical attention.
 
 **This guide helps you:**
+
 - Know when fever is an emergency
 - Understand when to call the doctor vs. monitor at home
 - Learn how to make your baby comfortable
@@ -95,21 +100,25 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 ### Other Methods (Less Accurate for Babies)
 
 **Axillary (armpit):**
+
 - Easy but least accurate
 - Reads about 1 degree lower than rectal
 - If shows fever, confirm with rectal temp
 
 **Temporal artery (forehead):**
+
 - Quick and non-invasive
 - Accuracy varies
 - Not recommended for babies under 3 months
 
 **Tympanic (ear):**
+
 - Hard to position correctly in babies
 - Not accurate before 6 months
 - Earwax can affect reading
 
 **DO NOT USE:**
+
 - Glass mercury thermometers
 - Pacifier thermometers (unreliable)
 - Fever strips (unreliable)
@@ -125,12 +134,14 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **Fever definition:** Rectal temp 100.4°F (38°C) or higher
 
 **What to do:**
+
 - **Call doctor IMMEDIATELY**
 - Do not give medication before calling
 - Go to ER if can't reach doctor quickly
 - This is ALWAYS urgent
 
 **Why it's urgent:**
+
 - Risk of serious bacterial infections (meningitis, UTI, bloodstream infections)
 - Immune system still immature
 - Can't show specific symptoms
@@ -145,11 +156,13 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **Fever definition:** Rectal temp 100.4°F (38°C) or higher
 
 **What to do:**
+
 - Call doctor same day
 - Urgent if temp 102°F+ or baby looks very sick
 - May need evaluation to rule out infection
 
 **Less urgent but still important:**
+
 - Immune system still developing
 - Higher risk than older babies
 - Need medical assessment
@@ -161,6 +174,7 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **Fever definition:** 100.4°F (38°C) or higher
 
 **Call doctor immediately if:**
+
 - Fever 104°F (40°C) or higher
 - Fever with severe symptoms
 - Baby looks or acts very sick
@@ -168,11 +182,13 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 - Febrile seizure
 
 **Call doctor same day if:**
+
 - Fever with mild symptoms (cough, runny nose, vomiting, diarrhea)
 - Baby 6-12 months with fever but acting relatively well
 - Concerns about hydration
 
 **Monitor at home if:**
+
 - Fever under 102°F
 - Baby acting relatively normal when fever controlled
 - Drinking fluids
@@ -186,12 +202,14 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **Fever + any of these = call doctor:**
 
 ### Respiratory Symptoms
+
 - **Difficulty breathing** (working hard to breathe, flaring nostrils, grunting)
 - Fast breathing
 - Wheezing
 - Blue lips or skin
 
 ### Neurological Symptoms
+
 - **Stiff neck** (can't touch chin to chest)
 - Bulging soft spot on head
 - Severe headache (if old enough to indicate)
@@ -199,11 +217,13 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 - Seizure
 
 ### Skin Symptoms
+
 - **Purple or red rash that doesn't blanch** (doesn't fade when pressed)
 - Petechiae (tiny red/purple dots)
 - Any rash with fever in baby under 3 months
 
 ### Hydration/Output
+
 - No wet diaper in 8+ hours
 - No tears when crying
 - Very dry mouth
@@ -211,12 +231,14 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 - Sunken eyes
 
 ### Behavior
+
 - **Inconsolable crying**
 - Extreme lethargy (won't wake up, limp)
 - Extreme irritability when touched or moved
 - Looks or acts very sick even when fever comes down
 
 ### Pain
+
 - Severe abdominal pain
 - Ear pain with fever
 - Pain when urinating
@@ -228,12 +250,14 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **What they are:** Seizures triggered by fever, occurring in 2-5% of children (usually 6 months - 5 years)
 
 **What they look like:**
+
 - Stiffening of body
 - Rhythmic jerking of arms and legs
 - Loss of consciousness
 - May last 1-5 minutes
 
 **What to do during seizure:**
+
 1. Stay calm
 2. Place baby on side on safe surface
 3. Don't restrain or put anything in mouth
@@ -241,17 +265,20 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 5. Call 911 if seizure lasts more than 5 minutes or this is first seizure
 
 **After seizure:**
+
 - Baby will be sleepy/confused (normal)
 - Call doctor immediately even if seizure stopped
 - First febrile seizure should be evaluated same day
 
 **Prognosis:**
+
 - Usually benign (not harmful)
 - About 30% chance of recurrence
 - Most children outgrow them
 - Don't cause brain damage or epilepsy
 
 **Prevention:**
+
 - Treating fever doesn't necessarily prevent febrile seizures
 - Can happen as fever spikes, before you even know baby is sick
 
@@ -264,22 +291,26 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **For babies 3+ months** (DO NOT give to babies under 3 months without doctor approval):
 
 **Acetaminophen (Tylenol):**
+
 - Dosing by weight (ask pharmacist or doctor for exact dose)
 - Can give every 4-6 hours as needed
 - Reduces fever and provides comfort
 
 **Ibuprofen (Advil, Motrin):**
+
 - For babies 6+ months only
 - Dosing by weight
 - Can give every 6-8 hours as needed
 - May work better for higher fevers
 
 **NEVER give:**
+
 - Aspirin to children (risk of Reye's syndrome)
 - Adult medications
 - More than recommended dose
 
 **Medication tips:**
+
 - Use syringe or medicine dropper for accurate dosing
 - Dose by weight, not age
 - Medicine brings fever down 1-2 degrees but may not normalize temperature
@@ -289,31 +320,37 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 ### Comfort Measures
 
 **Fluids:**
+
 - Offer frequently (breast, bottle, water if 6+ months)
 - Small amounts often better than large amounts
 - Popsicles or ice chips for older babies
 
 **Clothing:**
+
 - Dress in light clothing
 - One layer is sufficient
 - Don't bundle up (traps heat)
 
 **Room temperature:**
+
 - Keep room comfortably cool
 - Don't overheat the room
 
 **Lukewarm bath:**
+
 - Can provide comfort
 - NOT cold bath (can cause shivering, raises temperature)
 - Never use rubbing alcohol (dangerous)
 
 **Rest:**
+
 - Extra sleep is okay and helpful
 - Don't force activity
 
 ### What NOT to Do
 
 **Don't:**
+
 - Bundle baby in heavy blankets to "sweat out" fever
 - Give cold baths or ice baths
 - Use rubbing alcohol on skin
@@ -329,6 +366,7 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 ### Viral Infections (Most Common)
 
 **Examples:**
+
 - Cold viruses
 - Flu
 - Roseola
@@ -336,6 +374,7 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 - Stomach viruses
 
 **Typical pattern:**
+
 - Fever for 2-3 days
 - Other symptoms (runny nose, cough, vomiting, diarrhea)
 - Baby may still be somewhat playful when fever down
@@ -348,6 +387,7 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 ### Bacterial Infections (Less Common but More Serious)
 
 **Examples:**
+
 - Ear infections
 - Urinary tract infections (UTI)
 - Pneumonia
@@ -355,6 +395,7 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 - Strep throat (older children)
 
 **Typical pattern:**
+
 - May have high fever
 - Baby may look sicker
 - Specific symptoms (ear pain, painful urination, difficulty breathing)
@@ -367,17 +408,20 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 ### Post-Vaccine Fever
 
 **Common after:**
+
 - DTaP vaccine
 - PCV (pneumococcal) vaccine
 - MMR vaccine (older babies)
 
 **Typical pattern:**
+
 - Low-grade fever (under 101°F usually)
 - Occurs within 24-48 hours of vaccine
 - Lasts 1-2 days
 - Baby otherwise well
 
 **What to do:**
+
 - Give acetaminophen for comfort if needed
 - Call if fever high (over 102°F), lasts more than 2 days, or baby looks sick
 
@@ -388,12 +432,14 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **Important:** **Teething does NOT cause fever over 100.4°F**
 
 **Teething may cause:**
+
 - Very slight temp elevation (99-100°F)
 - Fussiness
 - Drooling
 - Gum discomfort
 
 **If baby has fever 100.4°F+ and you think it's teething:**
+
 - Assume it's NOT teething
 - Look for other cause
 - Call doctor if appropriate for age/symptoms
@@ -403,6 +449,7 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 ## When Fever Isn't Really Fever
 
 **Situations that can falsely elevate temperature:**
+
 - Just after bath
 - Overdressed/overheated
 - After vigorous play or crying
@@ -412,6 +459,7 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **What to do:** Wait 15-30 minutes and recheck
 
 **Situations that can lower temperature reading:**
+
 - Just ate or drank cold liquid
 - Crying with mouth open (if using oral thermometer)
 
@@ -422,12 +470,14 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **If doctor says to monitor at home:**
 
 ### Check and record every 2-4 hours:
+
 - Temperature
 - Fluid intake (wet diapers)
 - Baby's behavior and activity level
 - Other symptoms
 
 ### Watch for warning signs:
+
 - Fever increases
 - New symptoms develop
 - Baby looks worse
@@ -435,6 +485,7 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 - Very fussy or lethargic
 
 ### Call doctor back if:
+
 - Fever lasts more than 3 days
 - Fever goes away then returns
 - Baby gets worse instead of better
@@ -472,14 +523,17 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 **While you can't prevent all fevers:**
 
 **Keep up with vaccines:**
+
 - Prevent serious infections like Hib, pneumococcal disease
 - Flu vaccine annually (starting at 6 months)
 
 **Hand hygiene:**
+
 - Wash hands frequently
 - Limit exposure to sick people when possible
 
 **Good nutrition:**
+
 - Breastfeeding provides antibodies
 - Adequate nutrition supports immune system
 
@@ -503,29 +557,32 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 ## Related Resources
 
 **Quick Help on related topics:**
+
 - 🚨 [Baby won't stop crying (0-3 months)](/quick-help/baby-crying-0-3mo)
 - 🚨 [Seizure vs. normal baby movements](/quick-help/seizure-vs-normal-movements)
 - 🚨 [Delayed milestones: When to worry](/quick-help/delayed-milestones)
 
 **By Age:**
+
 - 📅 [Newborn (0-3 months)](/age/newborn)
 - 📅 [3-6 months](/age/3-months)
 - 📅 [6-9 months](/age/6-months)
 - 📅 [9-12 months](/age/9-months)
 
 **In-Depth Reading:**
+
 - 📚 [When to call the pediatrician](/blog/when-to-call-pediatrician)
 - 📚 [Common baby illnesses: Complete guide](/blog/common-baby-illnesses)
 - 📚 [Baby's first year: Health and safety](/blog/baby-first-year-health)
 
 ---
 
-**Medical Review:** [Your Name], MSN, CPNP-AC, Pediatric Neurology NP
+**Medical Review:** Alisha Blevins, MSN, CPNP-AC, Pediatric Neurology NP
 **Last Updated:** [Date]
 
 ⚠️ **Emergency Disclaimer:** If you believe your child is experiencing a medical emergency, call 911 or go to your nearest emergency room immediately. Fever in baby under 3 months (100.4°F or higher) always requires immediate medical attention.
 
-*This information is for educational purposes only and does not replace medical advice from your child's healthcare provider.*
+_This information is for educational purposes only and does not replace medical advice from your child's healthcare provider._
 
 ---
 
@@ -533,13 +590,13 @@ For older babies, fever is usually from a minor viral illness, but certain patte
 
 **When to Call for Fever:**
 
-| Age | Temperature | Action |
-|-----|-------------|---------|
-| Under 3 months | 100.4°F+ | **CALL DOCTOR IMMEDIATELY** |
-| 3-6 months | 102°F+ | Call doctor same day |
-| 3-6 months | Under 102°F | Call if baby looks sick or has other symptoms |
-| 6+ months | 104°F+ | Call doctor immediately |
-| 6+ months | Under 104°F | Call if lasts 3+ days, baby looks sick, or other concerning symptoms |
-| Any age | Fever + concerning symptoms | Call doctor or go to ER |
+| Age            | Temperature                 | Action                                                               |
+| -------------- | --------------------------- | -------------------------------------------------------------------- |
+| Under 3 months | 100.4°F+                    | **CALL DOCTOR IMMEDIATELY**                                          |
+| 3-6 months     | 102°F+                      | Call doctor same day                                                 |
+| 3-6 months     | Under 102°F                 | Call if baby looks sick or has other symptoms                        |
+| 6+ months      | 104°F+                      | Call doctor immediately                                              |
+| 6+ months      | Under 104°F                 | Call if lasts 3+ days, baby looks sick, or other concerning symptoms |
+| Any age        | Fever + concerning symptoms | Call doctor or go to ER                                              |
 
 **Concerning symptoms at any age:** Difficulty breathing, seizure, rash that doesn't blanch, extreme lethargy, inconsolable crying, stiff neck, no wet diaper 8+ hours

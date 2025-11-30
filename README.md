@@ -78,7 +78,7 @@ title: "Your Post Title"
 description: "Brief description for SEO and previews"
 publishedAt: "2025-01-15"
 updatedAt: "2025-01-15"
-author: "Your Name, MSN, CPNP-AC"
+author: "Alisha Blevins, MSN, CPNP-AC"
 category: "development" # development, sleep, feeding, health, safety, neurological, basics
 tags: ["tag1", "tag2"]
 ageRanges: ["0-3mo", "3-6mo"] # Optional
@@ -110,6 +110,7 @@ isSpecialty: false
 ### Age Ranges
 
 Use these values for ageRanges:
+
 - `0-3mo` - 0-3 months
 - `3-6mo` - 3-6 months
 - `6-9mo` - 6-9 months
@@ -134,21 +135,13 @@ Use these values for ageRanges:
 Use these custom components in your MDX:
 
 ```mdx
-<MedicalDisclaimer>
-This is for educational purposes only...
-</MedicalDisclaimer>
+<MedicalDisclaimer>This is for educational purposes only...</MedicalDisclaimer>
 
-<WhenToCallDoctor>
-Call your doctor if...
-</WhenToCallDoctor>
+<WhenToCallDoctor>Call your doctor if...</WhenToCallDoctor>
 
-<InfoBox title="Optional Title">
-Important information here
-</InfoBox>
+<InfoBox title="Optional Title">Important information here</InfoBox>
 
-<QuickRefCard title="Quick Reference">
-Checklist or quick info
-</QuickRefCard>
+<QuickRefCard title="Quick Reference">Checklist or quick info</QuickRefCard>
 ```
 
 ## Deployment
