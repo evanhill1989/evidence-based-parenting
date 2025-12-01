@@ -11,9 +11,9 @@ export default function HomePage() {
     <div className="flex flex-col">
       {/* Hero Section */}
       <section className="bg-linear-to-br from-primary-50 to-white py-20">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="container mx-auto  px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
-            <h1 className="mb-6 text-4xl font-bold tracking-tight text- sm:text-5xl md:text-6xl text-hero-foreground">
+            <h1 className="mb-6 text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-8xl text-hero-foreground">
               Evidence-Based Parenting
             </h1>
             <p className="mb-8 text-xl text-card-foreground">

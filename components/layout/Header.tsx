@@ -28,14 +28,14 @@ export function Header() {
           <div className="flex items-center">
             <Link
               href="/"
-              className="text-xl font-bold text-primary-600 dark:text-primary-300"
+              className="text-3xl font-bold text-primary-600 dark:text-primary-300 flex items-center gap-2"
             >
               <Image
-                src="/EBPlogo.png"
+                src="/EBPlogo_bgwhite.png"
                 alt="EBP Logo"
                 width={120}
                 height={120}
-                className="h-10 w-auto"
+                className="h-7 w-7 rounded-full object-cover"
               />
               EBP
             </Link>
