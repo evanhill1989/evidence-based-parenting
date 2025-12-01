@@ -1,13 +1,13 @@
-import Link from 'next/link'
-import { ChevronRight } from 'lucide-react'
+import Link from "next/link";
+import { ChevronRight } from "lucide-react";
 
 interface BreadcrumbItem {
-  label: string
-  href?: string
+  label: string;
+  href?: string;
 }
 
 interface BreadcrumbsProps {
-  items: BreadcrumbItem[]
+  items: BreadcrumbItem[];
 }
 
 export function Breadcrumbs({ items }: BreadcrumbsProps) {
@@ -15,10 +15,7 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
     <nav className="no-print mb-8 flex" aria-label="Breadcrumb">
       <ol className="flex items-center space-x-2 text-sm">
         <li>
-          <Link
-            href="/"
-            className="text-gray-500 hover:text-gray-700"
-          >
+          <Link href="/" className="text-muted-foreground hover:text-gray-700">
             Home
           </Link>
         </li>
@@ -28,16 +25,16 @@ export function Breadcrumbs({ items }: BreadcrumbsProps) {
             {item.href && index < items.length - 1 ? (
               <Link
                 href={item.href}
-                className="ml-2 text-gray-500 hover:text-gray-700"
+                className="ml-2 text-muted-foreground hover:text-gray-700"
               >
                 {item.label}
               </Link>
             ) : (
-              <span className="ml-2 text-gray-900">{item.label}</span>
+              <span className="ml-2 text-muted-foreground">{item.label}</span>
             )}
           </li>
         ))}
       </ol>
     </nav>
-  )
+  );
 }

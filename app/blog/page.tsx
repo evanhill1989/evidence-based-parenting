@@ -1,28 +1,31 @@
-import Link from 'next/link'
-import { allBlogPosts } from 'contentlayer/generated'
-import { formatDate, getCategoryLabel } from '@/lib/utils'
-import { Clock, ArrowRight } from 'lucide-react'
-import type { Metadata } from 'next'
+import Link from "next/link";
+import { allBlogPosts } from "contentlayer/generated";
+import { formatDate, getCategoryLabel } from "@/lib/utils";
+import { Clock, ArrowRight } from "lucide-react";
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: 'Blog',
-  description: 'In-depth articles on child development, parenting strategies, and pediatric health topics.',
-}
+  title: "Blog",
+  description:
+    "In-depth articles on child development, parenting strategies, and pediatric health topics.",
+};
 
 export default function BlogPage() {
   const posts = allBlogPosts.sort((a, b) => {
-    return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
-  })
+    return (
+      new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+    );
+  });
 
-  const featuredPosts = posts.filter((post) => post.featured)
-  const regularPosts = posts.filter((post) => !post.featured)
+  const featuredPosts = posts.filter((post) => post.featured);
+  const regularPosts = posts.filter((post) => !post.featured);
 
   return (
     <div className="py-12">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="mb-12">
-          <h1 className="mb-4 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+          <h1 className="mb-4 text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
             Blog
           </h1>
           <p className="text-xl text-gray-600">
@@ -34,7 +37,7 @@ export default function BlogPage() {
         {/* Featured Posts */}
         {featuredPosts.length > 0 && (
           <section className="mb-16">
-            <h2 className="mb-6 text-2xl font-bold text-gray-900">
+            <h2 className="mb-6 text-2xl font-bold text-foreground">
               Featured Articles
             </h2>
             <div className="grid gap-8 md:grid-cols-2">
@@ -77,15 +80,12 @@ export default function BlogPage() {
 
         {/* All Posts */}
         <section>
-          <h2 className="mb-6 text-2xl font-bold text-gray-900">
+          <h2 className="mb-6 text-2xl font-bold text-foreground">
             All Articles
           </h2>
           <div className="space-y-8">
             {regularPosts.map((post) => (
-              <article
-                key={post.slug}
-                className="border-b pb-8 last:border-0"
-              >
+              <article key={post.slug} className="border-b pb-8 last:border-0">
                 <Link href={post.url} className="group block">
                   <div className="flex items-start justify-between gap-4">
                     <div className="flex-1">
@@ -132,5 +132,5 @@ export default function BlogPage() {
         )}
       </div>
     </div>
-  )
+  );
 }

@@ -5,6 +5,7 @@ import { useState } from "react";
 import { Menu, X, Search, Moon, Sun } from "lucide-react";
 import { SearchModal } from "@/components/search/SearchModal";
 import { useTheme } from "@/components/providers/ThemeProvider";
+import Image from "next/image";
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -29,7 +30,14 @@ export function Header() {
               href="/"
               className="text-xl font-bold text-primary-600 dark:text-primary-300"
             >
-              Evidence-Based Parenting
+              <Image
+                src="/EBPlogo.png"
+                alt="EBP Logo"
+                width={120}
+                height={120}
+                className="h-10 w-auto"
+              />
+              EBP
             </Link>
           </div>
 

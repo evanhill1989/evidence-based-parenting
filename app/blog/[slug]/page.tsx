@@ -158,10 +158,10 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
 
           {/* Author Bio */}
           <div className="mt-12 rounded-lg border bg-gray-50 p-6">
-            <h3 className="mb-2 text-lg font-semibold text-gray-900">
+            <h3 className="mb-2 text-lg font-semibold text-card-foreground">
               About the Author
             </h3>
-            <p className="text-sm text-foreground">
+            <p className="text-sm text-card-foreground">
               {post.author} is a Pediatric Nurse Practitioner (MSN, CPNP-AC)
               with over 8 years of experience, specializing in developmental
               pediatrics and pediatric neurology. She is passionate about

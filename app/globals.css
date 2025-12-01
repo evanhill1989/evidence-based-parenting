@@ -29,6 +29,7 @@
   --color-foreground: hsl(222.2 84% 4.9%);
   --color-card: #ffffff;
   --color-card-foreground: hsl(222.2 84% 4.9%);
+  --color-hero-foreground: hsl(222, 87%, 3%);
   --color-popover: #ffffff;
   --color-popover-foreground: hsl(222.2 84% 4.9%);
   --color-primary: var(--color-primary-600);

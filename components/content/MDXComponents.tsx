@@ -231,20 +231,22 @@ const MDXComponents = {
   // Custom callout components
   MedicalDisclaimer: ({ children }: { children: React.ReactNode }) => (
     <div className="medical-disclaimer my-6 flex gap-3">
-      <AlertCircle className="mt-0.5 h-5 w-5 shrink-0 text-yellow-600" />
+      <AlertCircle className="mt-0.5 h-5 w-5 shrink-0 **:text-yellow-600!" />
       <div>
-        <p className="mb-1 font-semibold text-yellow-900">Medical Disclaimer</p>
-        <div className="text-sm text-yellow-800">{children}</div>
+        <p className="mb-1 font-semibold  text-yellow-900!">
+          Medical Disclaimer
+        </p>
+        <div className="text-sm **:text-yellow-800!">{children}</div>
       </div>
     </div>
   ),
 
   WhenToCallDoctor: ({ children }: { children: React.ReactNode }) => (
     <div className="urgent-callout my-6 flex gap-3">
-      <AlertTriangle className="mt-0.5 h-5 w-5 shrink-0  text-red-600!" />
+      <AlertTriangle className="mt-0.5 h-5 w-5 shrink-0  **:text-red-600!" />
       <div>
         <p className="mb-1 font-bold text-red-900!">When to Call Your Doctor</p>
-        <div className="text-sm ">{children}</div>
+        <div className="text-sm **:text-red-800!">{children}</div>
       </div>
     </div>
   ),
@@ -258,10 +260,10 @@ const MDXComponents = {
   }) => (
     <div className="my-6 info-box">
       <div className="flex gap-3">
-        <Info className="mt-0.5 h-5 w-5 shrink-0 text-blue-600!" />
+        <Info className="mt-0.5 h-5 w-5 shrink-0 **:text-blue-600!" />
         <div>
           {title && <h6>{title}</h6>}
-          <div className="text-sm text-blue-800">{children}</div>
+          <div className="text-sm **:text-blue-800">{children}</div>
         </div>
       </div>
     </div>
