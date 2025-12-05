@@ -42,7 +42,6 @@ export function getCategoryLabel(category: string): string {
     development: "Development",
     sleep: "Sleep",
     feeding: "Feeding",
-    health: "Health",
     safety: "Safety",
     neurological: "Neurological",
     basics: "Basics",

@@ -28,7 +28,7 @@ export function Header() {
           <div className="flex items-center">
             <Link
               href="/"
-              className="text-3xl font-bold text-primary-600 dark:text-primary-300 flex items-center gap-2"
+              className="text-3xl font-bold text-primary-600 flex items-center gap-2"
             >
               <Image
                 src="/EBPlogo_bgwhite.png"

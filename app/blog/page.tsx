@@ -28,7 +28,7 @@ export default function BlogPage() {
           <h1 className="mb-4 text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
             Blog
           </h1>
-          <p className="text-xl text-gray-600">
+          <p className="text-xl text-foreground">
             In-depth articles on child development, parenting strategies, and
             pediatric health topics
           </p>

@@ -1,26 +1,26 @@
-import Link from 'next/link'
+import Link from "next/link";
 
 export function Footer() {
   const footerLinks = {
     content: [
-      { name: 'Quick Help', href: '/quick-help' },
-      { name: 'By Age', href: '/age' },
-      { name: 'Guides', href: '/guides' },
-      { name: 'Blog', href: '/blog' },
+      { name: "Quick Help", href: "/quick-help" },
+      { name: "By Age", href: "/age" },
+      { name: "Guides", href: "/guides" },
+      { name: "Blog", href: "/blog" },
     ],
     topics: [
-      { name: 'Development', href: '/topics/development' },
-      { name: 'Sleep', href: '/topics/sleep' },
-      { name: 'Feeding', href: '/topics/feeding' },
-      { name: 'Health', href: '/topics/health' },
+      { name: "Development", href: "/topics/development" },
+      { name: "Sleep", href: "/topics/sleep" },
+      { name: "Feeding", href: "/topics/feeding" },
+      { name: "Health", href: "/topics/health" },
     ],
     site: [
-      { name: 'About', href: '/about' },
-      { name: 'Contact', href: '/contact' },
-      { name: 'Privacy', href: '/privacy' },
-      { name: 'Terms', href: '/terms' },
+      { name: "About", href: "/about" },
+      { name: "Contact", href: "/contact" },
+      { name: "Privacy", href: "/privacy" },
+      { name: "Terms", href: "/terms" },
     ],
-  }
+  };
 
   return (
     <footer className="border-t bg-gray-50 dark:bg-slate-900 dark:border-slate-700">
@@ -28,7 +28,7 @@ export function Footer() {
         <div className="grid gap-8 md:grid-cols-4">
           {/* About */}
           <div className="md:col-span-1">
-            <Link href="/" className="text-lg font-bold text-primary-600 dark:text-primary-300">
+            <Link href="/" className="text-lg font-bold text-primary">
               Evidence-Based Parenting
             </Link>
             <p className="mt-4 text-sm text-gray-600 dark:text-gray-200">
@@ -116,5 +116,5 @@ export function Footer() {
         </div>
       </div>
     </footer>
-  )
+  );
 }

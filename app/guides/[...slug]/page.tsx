@@ -1,7 +1,12 @@
 import { notFound } from "next/navigation";
 import { allGuides } from "contentlayer/generated";
 import { getMDXComponent } from "next-contentlayer2/hooks";
-import { formatDate, getCategoryLabel, getAgeRangeLabel, getDifficultyLabel } from "@/lib/utils";
+import {
+  formatDate,
+  getCategoryLabel,
+  getAgeRangeLabel,
+  getDifficultyLabel,
+} from "@/lib/utils";
 import { getRelatedContent } from "@/lib/content";
 import { generateArticleMetadata } from "@/lib/metadata";
 import { extractHeadings } from "@/lib/extract-headings";
@@ -21,7 +26,7 @@ interface GuidePageProps {
 // Generate static params for all guides
 export async function generateStaticParams() {
   return allGuides.map((guide) => ({
-    slug: guide.slug.split('/'),
+    slug: guide.slug.split("/"),
   }));
 }
 
@@ -30,7 +35,7 @@ export async function generateMetadata({
   params,
 }: GuidePageProps): Promise<Metadata> {
   const { slug } = await params;
-  const slugPath = slug.join('/');
+  const slugPath = slug.join("/");
   const guide = allGuides.find((guide) => guide.slug === slugPath);
 
   if (!guide) {
@@ -51,7 +56,7 @@ export async function generateMetadata({
 
 export default async function GuidePage({ params }: GuidePageProps) {
   const { slug } = await params;
-  const slugPath = slug.join('/');
+  const slugPath = slug.join("/");
   const guide = allGuides.find((guide) => guide.slug === slugPath);
 
   if (!guide) {
@@ -77,11 +82,11 @@ export default async function GuidePage({ params }: GuidePageProps) {
               {guide.difficulty && (
                 <span
                   className={`inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium ${
-                    guide.difficulty === 'beginner'
-                      ? 'bg-green-100 text-green-700'
-                      : guide.difficulty === 'intermediate'
-                      ? 'bg-yellow-100 text-yellow-700'
-                      : 'bg-red-100 text-red-700'
+                    guide.difficulty === "beginner"
+                      ? "bg-green-100 text-green-700"
+                      : guide.difficulty === "intermediate"
+                      ? "bg-yellow-100 text-yellow-700"
+                      : "bg-red-100 text-red-700"
                   }`}
                 >
                   <TrendingUp className="h-4 w-4" />
@@ -97,7 +102,7 @@ export default async function GuidePage({ params }: GuidePageProps) {
               )}
             </div>
 
-            <h1 className="mb-6 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+            <h1 className="mb-6 text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
               {guide.title}
             </h1>
 

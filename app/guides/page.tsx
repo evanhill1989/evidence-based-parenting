@@ -35,10 +35,10 @@ export default function GuidesPage() {
     <div className="py-12">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mb-12">
-          <h1 className="mb-4 text-4xl font-bold tracking-tight text-gray-100 sm:text-5xl">
+          <h1 className="mb-4 text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
             How-To Guides
           </h1>
-          <p className="text-xl text-gray-100">
+          <p className="text-xl text-foreground">
             Step-by-step instructions for common parenting tasks and skills
           </p>
         </div>
@@ -81,7 +81,7 @@ export default function GuidesPage() {
                   <h3 className="mb-3 text-xl font-bold text-gray-900 group-hover:text-primary-600">
                     {guide.title}
                   </h3>
-                  <p className="mb-4 text-sm text-gray-100 line-clamp-2">
+                  <p className="mb-4 text-sm text-foreground line-clamp-2">
                     {guide.description}
                   </p>
 
@@ -91,13 +91,13 @@ export default function GuidesPage() {
                       {guide.ageRanges.slice(0, 2).map((age) => (
                         <span
                           key={age}
-                          className="rounded-full bg-gray-100 px-2 py-1 text-xs text-gray-100"
+                          className="rounded-full bg-gray-100 px-2 py-1 text-xs text-foreground"
                         >
                           {getAgeRangeLabel(age)}
                         </span>
                       ))}
                       {guide.ageRanges.length > 2 && (
-                        <span className="rounded-full bg-gray-100 px-2 py-1 text-xs text-gray-100">
+                        <span className="rounded-full bg-gray-100 px-2 py-1 text-xs text-foreground">
                           +{guide.ageRanges.length - 2} more
                         </span>
                       )}
@@ -122,7 +122,7 @@ export default function GuidesPage() {
         {/* Empty state */}
         {guides.length === 0 && (
           <div className="rounded-lg border border-dashed py-16 text-center">
-            <p className="text-gray-100">No guides yet. Check back soon!</p>
+            <p className="text-foreground">No guides yet. Check back soon!</p>
           </div>
         )}
       </div>

@@ -10,20 +10,20 @@ export default function HomePage() {
   return (
     <div className="flex flex-col">
       {/* Hero Section */}
-      <section className="bg-linear-to-br from-primary-50 to-white py-20">
+      <section className=" py-20">
         <div className="container mx-auto  px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="mb-6 text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-8xl text-hero-foreground">
               Evidence-Based Parenting
             </h1>
-            <p className="mb-8 text-xl text-card-foreground">
+            <p className="mb-8 text-xl text-secondary-foreground">
               Expert advice from a Pediatric Nurse Practitioner specializing in
-              developmental and neurological care for young children
+              developmental and neurological care
             </p>
             <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
               <Link
                 href="/quick-help"
-                className="inline-flex items-center rounded-lg bg-primary-600 px-6 py-3 text-base font-medium text-white hover:bg-primary-700"
+                className="inline-flex items-center rounded-lg bg-primary px-6 py-3 text-base font-medium text-white hover:bg-primary-700"
               >
                 Get Quick Help <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
@@ -60,7 +60,7 @@ export default function HomePage() {
                 Fast answers when you need them. 2am crying baby? We&apos;ve got
                 you covered.
               </p>
-              <span className="inline-flex items-center text-primary-600 group-hover:underline">
+              <span className="inline-flex items-center text-primary group-hover:underline">
                 Get help now <ArrowRight className="ml-2 h-4 w-4" />
               </span>
             </Link>
@@ -70,7 +70,7 @@ export default function HomePage() {
               href="/age"
               className="group rounded-xl border-2 border-gray-200 bg-white p-8 transition-all hover:border-primary-500 hover:shadow-lg"
             >
-              <div className="mb-4 inline-flex rounded-lg bg-blue-100 p-3 text-blue-600">
+              <div className="mb-4 inline-flex rounded-lg bg-blue-100 p-3 text-primary">
                 <BookOpen className="h-6 w-6" />
               </div>
               <h3 className="mb-2 text-xl font-semibold text-gray-900">
@@ -80,7 +80,7 @@ export default function HomePage() {
                 Learn what to expect at each stage of your child&apos;s
                 development.
               </p>
-              <span className="inline-flex items-center text-primary-600 group-hover:underline">
+              <span className="inline-flex items-center text-primary group-hover:underline">
                 Browse by age <ArrowRight className="ml-2 h-4 w-4" />
               </span>
             </Link>
@@ -99,7 +99,7 @@ export default function HomePage() {
               <p className="mb-4 text-gray-600">
                 Step-by-step instructions for common parenting tasks and skills.
               </p>
-              <span className="inline-flex items-center text-primary-600 group-hover:underline">
+              <span className="inline-flex items-center text-primary group-hover:underline">
                 View guides <ArrowRight className="ml-2 h-4 w-4" />
               </span>
             </Link>
@@ -130,12 +130,12 @@ export default function HomePage() {
                   href={content.url}
                   className="group rounded-lg border bg-white p-6 transition-shadow hover:shadow-md"
                 >
-                  <div className="mb-2 text-sm font-medium text-primary-600">
+                  <div className="mb-2 text-sm font-medium text-primary">
                     {content.contentType === "blog" && "Article"}
                     {content.contentType === "guide" && "Guide"}
                     {content.contentType === "quick-help" && "Quick Help"}
                   </div>
-                  <h3 className="mb-2 text-lg font-semibold text-gray-900 group-hover:text-primary-600">
+                  <h3 className="mb-2 text-lg font-semibold text-gray-900 group-hover:text-primary">
                     {content.title}
                   </h3>
                   <p className="mb-4 text-sm text-gray-600">
@@ -194,17 +194,17 @@ export default function HomePage() {
       )}
 
       {/* CTA Section */}
-      <section className="bg-primary-600 py-16 text-white">
+      <section className="bg-primary py-16 text-white">
         <div className="container mx-auto px-4 text-center sm:px-6 lg:px-8">
           <h2 className="mb-4 text-3xl font-bold">
             Expert Guidance When You Need It
           </h2>
-          <p className="mb-8 text-lg text-primary-100">
+          <p className="mb-8 text-lg text-secondary-foreground">
             Browse our growing library of evidence-based parenting resources
           </p>
           <Link
             href="/blog"
-            className="inline-flex items-center rounded-lg bg-white px-6 py-3 text-base font-medium text-primary-600 hover:bg-gray-100"
+            className="inline-flex items-center rounded-lg bg-white px-6 py-3 text-base font-medium text-primary hover:bg-gray-100"
           >
             Explore All Content <ArrowRight className="ml-2 h-5 w-5" />
           </Link>

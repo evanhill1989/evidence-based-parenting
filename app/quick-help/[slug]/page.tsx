@@ -83,11 +83,13 @@ export default async function QuickHelpPage({ params }: QuickHelpPageProps) {
               )}
             </div>
 
-            <h1 className="mb-6 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+            <h1 className="mb-6 text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
               {help.title}
             </h1>
 
-            <p className="mb-6 text-xl text-gray-600">{help.description}</p>
+            <p className="mb-6 text-xl text-secondary-foreground">
+              {help.description}
+            </p>
 
             {/* Meta information */}
             <div className="flex flex-wrap items-center gap-6 border-y border-gray-200 py-4 text-sm text-gray-600">
