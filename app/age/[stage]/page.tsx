@@ -4,10 +4,12 @@ import {
   allAgePages,
   allBlogPosts,
   allGuides,
-  allQuickHelp,
+  allQuickHelps,
 } from "contentlayer/generated";
 import { useMDXComponent } from "next-contentlayer2/hooks";
-import { AgeStageTemplate } from "@/components/age/age-stage-template";
+
+import { MilestoneTracker } from "@/components/age/milestone-tracker";
+import { DevelopmentTimeline } from "@/components/age/development-timeline";
 import {
   type AgeStage,
   isValidStage,
@@ -16,6 +18,7 @@ import {
   filterContentByStage,
   sortByPriority,
 } from "@/lib/age-utils";
+import { AgeOverviews } from "@/components/age/AgeOverviews";
 
 interface PageProps {
   params: {
@@ -61,7 +64,7 @@ export default function AgeStagePage({ params }: PageProps) {
   }
 
   // Get the overview page for this stage
-  const overview = allAgePages.find((page) => page.ageStage === stage);
+  const overview = AgeOverviews.find((page) => page.stage === stage);
 
   if (!overview) {
     notFound();
@@ -70,13 +73,12 @@ export default function AgeStagePage({ params }: PageProps) {
   // Filter content by stage
   const blogs = filterContentByStage(allBlogPosts, stage);
   const guides = filterContentByStage(allGuides, stage);
-  const quickHelpItems = filterContentByStage(allQuickHelp, stage);
+  const quickHelpItems = filterContentByStage(allQuickHelps, stage);
 
   // Sort quick help by priority
   const sortedQuickHelp = sortByPriority(quickHelpItems);
 
   // Get the MDX component for the overview content
-  const MDXContent = useMDXComponent(overview.body.code);
 
   return (
     <div className="py-12">
@@ -94,40 +96,19 @@ export default function AgeStagePage({ params }: PageProps) {
           <p className="text-xl text-secondary-foreground">
             {getStageInfo(stage).description}
           </p>
+          {/* Stage Overview Content */}
+          <section className="my-6">
+            <div>
+              <p>{overview.overview}</p>
+            </div>
+          </section>
         </div>
 
-        {/* Development Timeline Visualization - Placeholder */}
-        <section className="mb-12 rounded-lg border bg-gray-50 p-8">
-          <h2 className="mb-4 text-2xl font-bold text-gray-900">
-            Development Timeline
-          </h2>
-          <div className="text-center text-gray-600">
-            <p>Visual timeline showing milestones across 0-36 months</p>
-            <p className="text-sm text-gray-500">(Feature coming soon)</p>
-          </div>
-        </section>
+        {/* Development Timeline Visualization */}
+        <DevelopmentTimeline currentStage={stage} />
 
-        {/* Interactive Milestone Tracker - Placeholder */}
-        <section className="mb-12 rounded-lg border bg-white p-8">
-          <h2 className="mb-4 text-2xl font-bold text-gray-900">
-            Milestone Tracker
-          </h2>
-          <div className="text-center text-gray-600">
-            <p>
-              Interactive checklist for tracking your child&apos;s milestones
-            </p>
-            <p className="text-sm text-gray-500">(Feature coming soon)</p>
-          </div>
-        </section>
-
-        {/* Stage Overview Content - MDX Rendered */}
-        <section className="mb-12">
-          <div className="rounded-lg border  p-8">
-            <article className="prose prose-lg max-w-none">
-              <MDXContent />
-            </article>
-          </div>
-        </section>
+        {/* Interactive Milestone Tracker */}
+        <MilestoneTracker stage={stage} />
 
         {/* Quick Help Section */}
         {sortedQuickHelp.length > 0 && (
