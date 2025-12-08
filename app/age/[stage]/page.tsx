@@ -21,9 +21,9 @@ import {
 import { AgeOverviews } from "@/components/age/AgeOverviews";
 
 interface PageProps {
-  params: {
+  params: Promise<{
     stage: string;
-  };
+  }>;
 }
 
 // Generate static paths for all age stages
@@ -38,7 +38,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: PageProps): Promise<Metadata> {
-  const { stage } = params;
+  const { stage } = await params;
 
   if (!isValidStage(stage)) {
     return {
@@ -55,8 +55,8 @@ export async function generateMetadata({
   };
 }
 
-export default function AgeStagePage({ params }: PageProps) {
-  const { stage } = params;
+export default async function AgeStagePage({ params }: PageProps) {
+  const { stage } = await params;
 
   // Validate stage parameter
   if (!isValidStage(stage)) {

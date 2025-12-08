@@ -54,7 +54,7 @@ export function AgeStageTemplate({
             Milestone Tracker
           </h2>
           <div className="text-center text-gray-600">
-            <p>Interactive checklist for tracking your child's milestones</p>
+            <p>Interactive checklist for tracking your child&apos;s milestones</p>
             <p className="text-sm">(Feature coming soon)</p>
           </div>
         </section>
