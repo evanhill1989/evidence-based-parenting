@@ -104,6 +104,14 @@ export const BlogPost = defineDocumentType(() => ({
       type: "string",
       required: false,
     },
+    ageStage: {
+      type: "string",
+      required: false,
+    },
+    ageRange: {
+      type: "string",
+      required: false,
+    },
   },
   computedFields: {
     slug: {
@@ -281,6 +289,36 @@ export const Guide = defineDocumentType(() => ({
     featured: {
       type: "boolean",
       default: false,
+    },
+    journeyType: {
+      type: "enum",
+      options: [...journeyTypes],
+      required: false,
+    },
+    pillar: {
+      type: "string",
+      required: false,
+    },
+    relatedBlogs: {
+      type: "list",
+      of: { type: "string" },
+      required: false,
+    },
+    medicalDisclaimer: {
+      type: "boolean",
+      default: false,
+    },
+    whenToCallDoctor: {
+      type: "boolean",
+      default: false,
+    },
+    printFriendly: {
+      type: "boolean",
+      default: false,
+    },
+    topic: {
+      type: "string",
+      required: false,
     },
   },
   computedFields: {
