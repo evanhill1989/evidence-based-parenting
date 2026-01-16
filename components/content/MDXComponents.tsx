@@ -4,9 +4,9 @@ import {
   AlertCircle,
   AlertTriangle,
   Info,
-  Download,
   Square,
 } from "lucide-react";
+import { DownloadButton } from "./DownloadButton";
 
 // Custom components for MDX
 const MDXComponents = {
@@ -284,24 +284,7 @@ const MDXComponents = {
     </div>
   ),
 
-  DownloadButton: ({
-    href,
-    children,
-  }: {
-    href: string;
-    children: React.ReactNode;
-  }) => (
-    <div className="my-6">
-      <a
-        href={href}
-        download
-        className="inline-flex items-center gap-2 rounded-lg bg-primary-600 px-6 py-3 text-base font-medium text-white transition-colors hover:bg-primary-700"
-      >
-        <Download className="h-5 w-5" />
-        {children}
-      </a>
-    </div>
-  ),
+  DownloadButton,
 };
 
 export default MDXComponents;
